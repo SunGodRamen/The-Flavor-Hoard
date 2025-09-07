@@ -1,6 +1,5 @@
 ---
 title: Arugula & Parmesan Salad
-course: starter
 culture: Italian
 pairs_with:
   - Spaghetti Carbonara

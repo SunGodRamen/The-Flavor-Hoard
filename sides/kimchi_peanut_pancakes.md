@@ -1,7 +1,6 @@
 ---
 title: Kimchi-Peanut Pancakes
-course: side
-culture: Fusion (Korean-inspired)
+culture: Korean
 pairs_with:
   - Peanut Satay Skewers
   - Papaya & Cucumber Som Tam

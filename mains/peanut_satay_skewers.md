@@ -1,6 +1,5 @@
 ---
 title: Peanut Satay Skewers
-course: main
 culture: Thai
 pairs_with:
   - Papaya & Cucumber Som Tam

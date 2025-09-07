@@ -1,6 +1,5 @@
 ---
 title: Spaghetti Carbonara
-course: main
 culture: Italian
 pairs_with:
   - Arugula & Parmesan Salad

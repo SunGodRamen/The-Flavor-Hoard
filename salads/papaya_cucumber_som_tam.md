@@ -1,6 +1,5 @@
 ---
 title: Papaya & Cucumber Som Tam
-course: starter
 culture: Thai
 pairs_with:
   - Peanut Satay Skewers
