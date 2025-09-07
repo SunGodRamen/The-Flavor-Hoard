@@ -2,6 +2,7 @@
 title: Bloody Mary
 culture: Brunch Classic
 pairs_with:
+  - Breakfast
   - Buffalo Wings
 ---
 

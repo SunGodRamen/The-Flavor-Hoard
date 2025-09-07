@@ -3,7 +3,6 @@ title: Mai Tai
 culture: Tiki
 pairs_with:
   - Peanut Satay Skewers
-  - Sweet & Spicy Dishes
 ---
 
 ## Ingredients

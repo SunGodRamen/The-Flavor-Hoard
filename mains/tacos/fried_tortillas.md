@@ -4,7 +4,7 @@ culture: Mexican
 pairs_with:
   - Tacos Dorados
   - Carne Asada Tacos
-  - Salsa Roja
+  - Salsa
 ---
 
 ## Ingredients

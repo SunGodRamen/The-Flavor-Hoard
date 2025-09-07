@@ -2,8 +2,8 @@
 title: Last Word
 culture: American
 pairs_with:
-  - Grilled Meats
-  - Rich Desserts
+  - BBQ
+  - Desserts
 ---
 
 ## Ingredients

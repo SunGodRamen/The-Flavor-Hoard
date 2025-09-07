@@ -2,7 +2,7 @@
 title: Pad Thai
 culture: Thai
 pairs_with:
-  - Som Tam Salad
+  - Papya Cucumber Som Tam
   - Thai Basil Margarita
 ---
 

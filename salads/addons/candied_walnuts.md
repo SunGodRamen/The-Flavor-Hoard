@@ -3,7 +3,6 @@ title: Candied Walnuts
 culture: Global
 pairs_with:
   - Arugula & Parmesan Salad
-  - Beet Salad
   - Baked Brie
 ---
 

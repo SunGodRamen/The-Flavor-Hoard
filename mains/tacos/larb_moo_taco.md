@@ -2,7 +2,6 @@
 title: Larb Moo Taco
 culture: Thai Lao Mexican Fusion
 pairs_with:
-  - Sticky Rice
   - Riesling (Crisp)
 ---
 

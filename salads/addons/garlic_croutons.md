@@ -3,7 +3,6 @@ title: Garlic Croutons
 culture: European-American
 pairs_with:
   - Caesar Salad
-  - Tomato Soup
   - Caprese Salad
 ---
 
