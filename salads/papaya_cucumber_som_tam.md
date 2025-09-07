@@ -4,8 +4,6 @@ course: starter
 culture: Thai
 pairs_with:
   - Peanut Satay Skewers
-  - Black Rice with Toasted Coconut
-  - Coconut-Peanut Panna Cotta
 ---
 
 ## Ingredients

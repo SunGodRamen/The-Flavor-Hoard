@@ -3,7 +3,6 @@ title: Peanut Satay Skewers
 course: main
 culture: Thai
 pairs_with:
-  - Black Rice with Coconut
   - Papaya & Cucumber Som Tam
 ---
 

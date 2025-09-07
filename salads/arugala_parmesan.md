@@ -4,7 +4,6 @@ course: starter
 culture: Italian
 pairs_with:
   - Spaghetti Carbonara
-  - Tiramisu Cups
 ---
 
 ## Ingredients

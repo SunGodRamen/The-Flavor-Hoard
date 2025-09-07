@@ -4,7 +4,6 @@ course: side
 culture: Fusion (Korean-inspired)
 pairs_with:
   - Peanut Satay Skewers
-  - Black Rice with Toasted Coconut
   - Papaya & Cucumber Som Tam
 ---
 
