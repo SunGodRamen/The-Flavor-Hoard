@@ -2,7 +2,6 @@
 title: Pulled Pork Shoulder (Boston Butt)
 culture: Carolina BBQ
 pairs_with:
-  - Carolina Mustard Sauce
   - Classic Baked Mac & Cheese
   - Sauerkraut
 ---
