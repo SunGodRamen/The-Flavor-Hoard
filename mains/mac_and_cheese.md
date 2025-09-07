@@ -3,6 +3,7 @@ title: Classic Baked Mac & Cheese (with Breadcrumbs)
 culture: American
 pairs_with:
   - Buffalo Wings
+  - BBQ
 ---
 
 ## Ingredients
