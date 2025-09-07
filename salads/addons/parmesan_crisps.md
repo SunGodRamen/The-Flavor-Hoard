@@ -4,7 +4,6 @@ culture: Italian
 pairs_with:
   - Caesar Salad
   - Arugula & Parmesan Salad
-  - Soups
 ---
 
 ## Ingredients

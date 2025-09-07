@@ -2,7 +2,7 @@
 title: Classic Dill Pickles
 culture: American
 pairs_with:
-  - Dead Greggs Grilled Cheese
+  - Blueberry Grilled Cheese
 ---
 
 ## Ingredients

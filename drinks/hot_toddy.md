@@ -2,7 +2,6 @@
 title: Hot Toddy
 culture: Winter Cocktail
 pairs_with:
-  - Chicken Noodle Soup
   - Apple Desserts
 ---
 

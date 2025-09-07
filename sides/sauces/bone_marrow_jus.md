@@ -2,9 +2,7 @@
 title: Bone Marrow Jus
 culture: French
 pairs_with:
-  - Filet Mignon
-  - New York Strip
-  - Marinated Flank Steak
+  - Steak
 ---
 
 ## Ingredients
