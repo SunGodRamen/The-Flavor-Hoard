@@ -4,6 +4,7 @@ culture: American
 pairs_with:
   - Caesar Salad
   - Spicy Roasted Potatoes
+  - Bone Marrow Jus
 ---
 
 ## Ingredients

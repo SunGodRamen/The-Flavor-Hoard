@@ -4,6 +4,7 @@ culture: American
 pairs_with:
   - Arugula & Parmesan Salad
   - Garlic Bread
+  - Bone Marrow Jus
 ---
 
 ## Ingredients

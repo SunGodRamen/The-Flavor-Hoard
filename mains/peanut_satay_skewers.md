@@ -3,6 +3,7 @@ title: Peanut Satay Skewers
 culture: Thai
 pairs_with:
   - Papaya & Cucumber Som Tam
+  - Cucumber Relish Gel
 ---
 
 ## Ingredients
