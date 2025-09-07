@@ -1,9 +1,7 @@
 ---
 title: Bread & Butter Pickles
 culture: American
-tags: [pickles, cucumber, vinegar, sweet]
 pairs_with:
-  - Spaghetti Carbonara
   - Dead Greggs Grilled Cheese
 ---
 
