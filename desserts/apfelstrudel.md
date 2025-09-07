@@ -3,6 +3,7 @@ title: Apfelstrudel
 culture: German
 pairs_with:
   - Coffee
+  - Vanilla Ice Cream
 ---
 
 ## Ingredients
