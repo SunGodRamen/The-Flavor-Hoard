@@ -1,6 +1,5 @@
 ---
 title: Chicken Tikka Masala
-course: main
 culture: Indian (British-Indian)
 pairs_with:
   - Naan
