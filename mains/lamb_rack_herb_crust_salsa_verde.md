@@ -1,8 +1,6 @@
 ---
 title: Herb-Crusted Lamb Rack with Salsa Verde
 culture: Modern European
-menu_role: meat
-season: Spring
 pairs_with:
   - Syrah
 ---

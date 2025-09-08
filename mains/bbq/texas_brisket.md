@@ -9,7 +9,7 @@ pairs_with:
 
 ## Ingredients
 - 1 whole packer brisket, 5–7 kg (trimmed to ~6–9 mm / 1/4–3/8" fat cap)
-- 50 g Brisket Rub (see `sides/sauces/bbq/brisket_rub_spg.md`)
+- 50 g Brisket Rub (see `mains/bbq/sauces/brisket_rub_spg.md`)
 - Optional mustard/worcestershire slather
 
 ## Instructions

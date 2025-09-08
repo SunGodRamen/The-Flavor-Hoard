@@ -2,7 +2,6 @@
 title: Tom Yum Shrimp Taco
 culture: Thai Mexican Fusion
 pairs_with:
-  - Kaffir Lime Crema
   - Sauvignon Blanc
 ---
 

@@ -8,7 +8,7 @@ pairs_with:
 
 ## Ingredients
 - 3–4 kg bone-in pork shoulder
-- 60–80 g Pork Rub (see `sides/sauces/bbq/pork_rub_sweet_heat.md`)
+- 60–80 g Pork Rub (see `mains/bbq/rubs/pork_rub_sweet_heat.md`)
 - 1/2–1 tsp mustard powder (mixed into rub if not already included)
 - Apple juice + cider vinegar (50/50) in spritz bottle
 - Optional: 120 ml apple juice for wrap
