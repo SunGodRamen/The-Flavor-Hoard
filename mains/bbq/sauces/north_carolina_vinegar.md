@@ -6,7 +6,6 @@ pairs_with:
   - Memphis Spare Ribs
   - Fried Chicken
 yield: ~2 cups (475 ml)
-diet: vegan, gluten-free
 ---
 
 ## Ingredients

@@ -2,7 +2,7 @@
 title: Hot Toddy
 culture: Winter Cocktail
 pairs_with:
-  - Apple Desserts
+  - Apfelstrudel
 ---
 
 ## Ingredients

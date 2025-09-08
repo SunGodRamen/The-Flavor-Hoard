@@ -2,7 +2,9 @@
 title: All-Purpose BBQ Rub
 culture: American BBQ
 pairs_with:
-  - Pork, Chicken, Ribs
+  - Pork
+  - Chicken
+  - Ribs
 ---
 
 ## Ingredients
