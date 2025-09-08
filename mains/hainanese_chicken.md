@@ -2,7 +2,6 @@
 title: Hainanese Chicken Rice
 culture: Hainan/Singapore
 pairs_with:
-  - Cucumber & Tomato
   - Chili–Garlic Sauce
   - Ginger–Scallion Oil
 yield: 4 servings
