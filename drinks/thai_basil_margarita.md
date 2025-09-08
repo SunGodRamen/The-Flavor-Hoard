@@ -1,6 +1,6 @@
 ---
 title: Thai Basil Margarita
-culture: Thai-Mexican Fusion
+culture: Thai - Mexican Fusion
 pairs_with:
   - Som Tam Taco
   - Satay Chicken Taco

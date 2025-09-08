@@ -1,7 +1,6 @@
 ---
 title: Duck Breast with Cherry Gastrique
 culture: French
-menu_role: meat
 pairs_with:
   - Pinot Noir
 ---

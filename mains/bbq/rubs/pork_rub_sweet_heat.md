@@ -1,6 +1,6 @@
 ---
 title: Pork Rub (Sweet Heat)
-culture: Memphis/KC
+culture: Memphis / KC
 pairs_with:
   - Pulled Pork
   - Spare Ribs
