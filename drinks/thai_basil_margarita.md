@@ -4,15 +4,16 @@ culture: Thai - Mexican Fusion
 pairs_with:
   - Som Tam Taco
   - Satay Chicken Taco
-equipment:
-  - Cocktail shaker
-  - Muddler
-  - Jigger
-  - Hawthorne strainer
-  - Rocks glass
-  - Citrus juicer/reamer
-  - Shallow dish/plate for salted rim
 ---
+
+## Equipment
+- Cocktail shaker
+- Muddler
+- Jigger
+- Hawthorne strainer
+- Rocks glass
+- Citrus juicer/reamer
+- Shallow dish/plate for salted rim
 
 ## Ingredients
 - 60 ml tequila blanco

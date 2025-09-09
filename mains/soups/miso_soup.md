@@ -5,14 +5,15 @@ pairs_with:
   - Ramen Shoyu
   - Sushi 
   - Light Salads
-equipment:
-  - Saucepan
-  - Ladle
-  - Small bowl (miso slurry)
-  - Whisk/chopsticks
-  - Chef’s knife & cutting board
-  - Soup bowls
 ---
+
+## Equipment
+- Saucepan
+- Ladle
+- Small bowl (miso slurry)
+- Whisk/chopsticks
+- Chef’s knife & cutting board
+- Soup bowls
 
 ## Ingredients
 - 750 ml dashi (kombu + bonito broth, or instant dashi powder)

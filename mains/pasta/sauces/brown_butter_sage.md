@@ -5,15 +5,16 @@ culture: Italian
 pairs_with:
   - Gnocchi di Patate
 yield: ~4 pasta servings
-equipment:
-  - Light-colored skillet or sauté pan
-  - Wooden spoon or heatproof silicone spatula
-  - Tongs or slotted spoon (to remove sage/garlic)
-  - Measuring spoons
-  - Ladle or heatproof measuring cup (for pasta water)
-  - Microplane or fine grater (Parmigiano & lemon zest)
-  - Citrus juicer or reamer (optional)
 ---
+
+## Equipment
+- Light-colored skillet or sauté pan
+- Wooden spoon or heatproof silicone spatula
+- Tongs or slotted spoon (to remove sage/garlic)
+- Measuring spoons
+- Ladle or heatproof measuring cup (for pasta water)
+- Microplane or fine grater (Parmigiano & lemon zest)
+- Citrus juicer or reamer (optional)
 
 ## Ingredients
 - 90–120 g unsalted butter (6–8 tbsp)

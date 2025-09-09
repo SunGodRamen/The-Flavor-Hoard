@@ -4,14 +4,15 @@ culture: Italian
 pairs_with:
   - Spaghetti Carbonara
   - Caprese Salad
-equipment:
-  - Mixing glass
-  - Jigger
-  - Bar spoon
-  - Julep or Hawthorne strainer
-  - Rocks glass
-  - Peeler (orange peel)
 ---
+
+## Equipment
+- Mixing glass
+- Jigger
+- Bar spoon
+- Julep or Hawthorne strainer
+- Rocks glass
+- Peeler (orange peel)
 
 ## Ingredients
 - 30 ml gin

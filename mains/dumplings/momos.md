@@ -3,14 +3,15 @@ title: Nepalese Momos (Steamed Dumplings)
 culture: Nepalese
 pairs_with:
   - Masala Chai
-equipment:
-  - Mixing bowls
-  - Rolling pin
-  - Round cutter (optional)
-  - Steamer (bamboo/metal) + parchment or cabbage leaves
-  - Pot/wok (for steamer)
-  - Oil/brush (to grease steamer)
 ---
+
+## Equipment
+- Mixing bowls
+- Rolling pin
+- Round cutter (optional)
+- Steamer (bamboo/metal) + parchment or cabbage leaves
+- Pot/wok (for steamer)
+- Oil/brush (to grease steamer)
 
 ## Ingredients
 

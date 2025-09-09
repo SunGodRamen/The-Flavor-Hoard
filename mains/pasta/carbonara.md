@@ -3,14 +3,15 @@ title: Spaghetti Carbonara
 culture: Italian
 pairs_with:
   - Arugula & Parmesan Salad
-equipment:
-  - Large pot (pasta) + colander
-  - Skillet (render guanciale)
-  - Mixing bowl
-  - Tongs
-  - Ladle or heatproof cup (pasta water)
-  - Microplane or fine grater
 ---
+
+## Equipment
+- Large pot (pasta) + colander
+- Skillet (render guanciale)
+- Mixing bowl
+- Tongs
+- Ladle or heatproof cup (pasta water)
+- Microplane or fine grater
 
 ## Ingredients
 - 400 g spaghetti

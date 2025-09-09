@@ -6,12 +6,13 @@ pairs_with:
   - Memphis Spare Ribs
   - Fried Chicken
 yield: ~2 cups (475 ml)
-equipment:
-  - Measuring jug or mixing bowl
-  - Whisk
-  - Funnel
-  - Bottle/jar with lid
 ---
+
+## Equipment
+- Measuring jug or mixing bowl
+- Whisk
+- Funnel
+- Bottle/jar with lid
 
 ## Ingredients
 - 360 ml apple cider vinegar

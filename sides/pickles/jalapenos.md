@@ -5,12 +5,13 @@ pairs_with:
   - Tacos
   - Nachos
   - Burgers
-equipment:
-  - Chef’s knife & cutting board
-  - Small saucepan (brine)
-  - Clean jar with lid
-  - Measuring cups & spoons
 ---
+
+## Equipment
+- Chef’s knife & cutting board
+- Small saucepan (brine)
+- Clean jar with lid
+- Measuring cups & spoons
 
 ## Ingredients
 - 250 g fresh jalapeños, sliced into rings

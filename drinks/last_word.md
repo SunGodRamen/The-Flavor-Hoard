@@ -4,13 +4,14 @@ culture: American
 pairs_with:
   - BBQ
   - Desserts
-equipment:
-  - Cocktail shaker
-  - Jigger
-  - Hawthorne strainer
-  - Coupe glass
-  - Citrus juicer/reamer
 ---
+
+## Equipment
+- Cocktail shaker
+- Jigger
+- Hawthorne strainer
+- Coupe glass
+- Citrus juicer/reamer
 
 ## Ingredients
 - 30 ml (1 oz) green Chartreuse

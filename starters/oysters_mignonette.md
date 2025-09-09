@@ -4,12 +4,13 @@ culture: French
 pairs_with:
   - Champagne
   - Muscadet
-equipment:
-  - Oyster knife
-  - Cut-resistant glove or folded towel
-  - Small bowl (mignonette)
-  - Tray + crushed ice (service)
 ---
+
+## Equipment
+- Oyster knife
+- Cut-resistant glove or folded towel
+- Small bowl (mignonette)
+- Tray + crushed ice (service)
 
 ## Ingredients
 - 12 fresh oysters, shucked

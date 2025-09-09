@@ -6,13 +6,14 @@ pairs_with:
   - Pickled Jalapeños
   - Arugula & Parmesan Salad
 yield: 4–6 servings
-equipment:
-  - Wide pot/Dutch oven with lid
-  - Chef’s knife & cutting board
-  - Wooden spoon
-  - Citrus juicer (lime)
-  - Measuring cups/spoons
 ---
+
+## Equipment
+- Wide pot/Dutch oven with lid
+- Chef’s knife & cutting board
+- Wooden spoon
+- Citrus juicer (lime)
+- Measuring cups/spoons
 
 ## Ingredients
 - 900 g bone-in chicken thighs/drumsticks (or boneless thighs)

@@ -4,11 +4,12 @@ culture: American
 pairs_with:
   - Buffalo Wings
   - Filet Mignon
-equipment:
+---
+
+## Equipment
   - Highball glass
   - Jigger
   - Bar spoon
----
 
 ## Ingredients
 - 60 ml (2 oz) whiskey (bourbon or Irish)

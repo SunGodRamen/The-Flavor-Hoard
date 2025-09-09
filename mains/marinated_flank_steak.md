@@ -4,14 +4,15 @@ culture: American
 pairs_with:
   - German Potato Salad
   - Chimichurri Sauce
-equipment:
-  - Mixing bowl & whisk
-  - Resealable bag or shallow dish (marinade)
-  - Grill or cast-iron skillet
-  - Tongs
-  - Instant-read thermometer
-  - Cutting board & sharp knife
 ---
+
+## Equipment
+- Mixing bowl & whisk
+- Resealable bag or shallow dish (marinade)
+- Grill or cast-iron skillet
+- Tongs
+- Instant-read thermometer
+- Cutting board & sharp knife
 
 ## Ingredients
 ### Marinade

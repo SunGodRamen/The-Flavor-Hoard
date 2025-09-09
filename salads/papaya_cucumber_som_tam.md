@@ -3,12 +3,13 @@ title: Papaya & Cucumber Som Tam
 culture: Thai
 pairs_with:
   - Peanut Satay Skewers
-equipment:
-  - Mortar & pestle (or bowl + whisk)
-  - Julienne peeler or mandoline
-  - Mixing bowl
-  - Chef’s knife & cutting board
 ---
+
+## Equipment
+- Mortar & pestle (or bowl + whisk)
+- Julienne peeler or mandoline
+- Mixing bowl
+- Chef’s knife & cutting board
 
 ## Ingredients
 - 200 g green papaya, julienned

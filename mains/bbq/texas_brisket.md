@@ -5,15 +5,16 @@ pairs_with:
   - Spicy Roasted Potatoes
   - Chimichurri
   - German Potato Salad
-equipment:
-  - Smoker or grill set for low-and-slow (wood/oak)
-  - Leave-in probe + instant-read thermometer
-  - Butcher paper or heavy-duty foil (wrap)
-  - Spray bottle (for spritzing)
-  - Heat-resistant gloves & tongs
-  - Large cutting board & slicing knife
-  - Cooler/Cambro (resting)
 ---
+
+## Equipment
+- Smoker or grill set for low-and-slow (wood/oak)
+- Leave-in probe + instant-read thermometer
+- Butcher paper or heavy-duty foil (wrap)
+- Spray bottle (for spritzing)
+- Heat-resistant gloves & tongs
+- Large cutting board & slicing knife
+- Cooler/Cambro (resting)
 
 ## Ingredients
 - 1 whole packer brisket, 5–7 kg (trimmed to ~6–9 mm / 1/4–3/8" fat cap)

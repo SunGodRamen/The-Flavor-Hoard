@@ -4,13 +4,14 @@ culture: Italian (Emilia-Romagna)
 pairs_with:
   - Red Wine
   - Arugula Salad
-equipment:
-  - Dutch oven or heavy pot
-  - Wooden spoon
-  - Chef’s knife & cutting board
-  - Measuring cups
-  - Pot + colander (pasta)
 ---
+
+## Equipment
+- Dutch oven or heavy pot
+- Wooden spoon
+- Chef’s knife & cutting board
+- Measuring cups
+- Pot + colander (pasta)
 
 ## Ingredients
 - 400 g fresh tagliatelle

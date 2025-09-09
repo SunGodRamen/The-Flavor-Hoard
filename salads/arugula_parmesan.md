@@ -3,11 +3,12 @@ title: Arugula & Parmesan Salad
 culture: Italian
 pairs_with:
   - Spaghetti Carbonara
-equipment:
-  - Salad bowl
-  - Small bowl + whisk (vinaigrette)
-  - Peeler or microplane (parmesan)
 ---
+
+## Equipment
+- Salad bowl
+- Small bowl + whisk (vinaigrette)
+- Peeler or microplane (parmesan)
 
 ## Ingredients
 - 100 g fresh arugula

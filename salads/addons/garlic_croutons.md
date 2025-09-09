@@ -3,12 +3,13 @@ title: Garlic Croutons
 culture: European-American
 pairs_with:
   - Caesar Salad
-equipment:
-  - Mixing bowl
-  - Baking sheet
-  - Oven
-  - Chef’s knife & cutting board
 ---
+
+## Equipment
+- Mixing bowl
+- Baking sheet
+- Oven
+- Chef’s knife & cutting board
 
 ## Ingredients
 - 1 small baguette or 4 slices day-old rustic bread, cut into 2 cm cubes

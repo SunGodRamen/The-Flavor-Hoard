@@ -6,14 +6,15 @@ pairs_with:
   - Green Salad
   - Manhattan
 yield: 2 servings
-equipment:
-  - Heavy skillet
-  - Mortar & pestle or coarse grinder (crack pepper)
-  - Tongs
-  - Instant-read thermometer (recommended)
-  - Small measuring cup (for cognac)
-  - Long lighter/matches (for flambé, optional)
 ---
+
+## Equipment
+- Heavy skillet
+- Mortar & pestle or coarse grinder (crack pepper)
+- Tongs
+- Instant-read thermometer (recommended)
+- Small measuring cup (for cognac)
+- Long lighter/matches (for flambé, optional)
 
 ## Ingredients
 - 2 strip steaks or filets (280–320 g each, 3–4 cm thick)

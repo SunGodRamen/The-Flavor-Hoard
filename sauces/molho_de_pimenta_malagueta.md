@@ -5,12 +5,13 @@ pairs_with:
   - Churrasco (steaks, linguiça)
   - Pastel de Queijo
   - Coxinha
-equipment:
-  - Knife **or** food processor
-  - Small saucepan (heat vinegar/brine)
-  - Heatproof glass jar with lid
-  - Funnel
 ---
+
+## Equipment
+- Knife **or** food processor
+- Small saucepan (heat vinegar/brine)
+- Heatproof glass jar with lid
+- Funnel
 
 ## Ingredients
 - 120–150 g fresh malagueta (or red Thai/bird’s eye) chilies, stems off

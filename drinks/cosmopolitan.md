@@ -4,15 +4,16 @@ culture: American
 pairs_with:
   - Caprese Salad
   - Seafood Dishes
-equipment:
-  - Cocktail shaker
-  - Jigger
-  - Hawthorne strainer
-  - Fine-mesh strainer (double strain)
-  - Coupe/martini glass
-  - Citrus juicer/reamer
-  - Peeler/channel knife (garnish)
 ---
+
+## Equipment
+- Cocktail shaker
+- Jigger
+- Hawthorne strainer
+- Fine-mesh strainer (double strain)
+- Coupe/martini glass
+- Citrus juicer/reamer
+- Peeler/channel knife (garnish)
 
 ## Ingredients
 - 45 ml vodka

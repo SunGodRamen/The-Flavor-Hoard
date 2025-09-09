@@ -5,15 +5,16 @@ pairs_with:
   - Pickled Cucumbers
   - Kimchi
 yield: 2–3 servings
-equipment:
-  - Large pot (boil noodles)
-  - Colander or spider
-  - Mixing bowl
-  - Whisk or fork
-  - Measuring cups & spoons
-  - Microplane (optional, garlic)
-  - Tongs or chopsticks
 ---
+
+## Equipment
+- Large pot (boil noodles)
+- Colander or spider
+- Mixing bowl
+- Whisk or fork
+- Measuring cups & spoons
+- Microplane (optional, garlic)
+- Tongs or chopsticks
 
 ## Ingredients
 - 250 g noodles (spaghetti/ramen)

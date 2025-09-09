@@ -4,13 +4,14 @@ culture: French
 pairs_with:
   - White Burgundy
   - Green Salad
-equipment:
-  - Saucepan (pâte à choux)
-  - Wooden spoon
-  - Piping bag (1 cm tip) or spoons
-  - Pot (simmering water) + slotted spoon
-  - Skillet (brown butter & sage)
 ---
+
+## Equipment
+- Saucepan (pâte à choux)
+- Wooden spoon
+- Piping bag (1 cm tip) or spoons
+- Pot (simmering water) + slotted spoon
+- Skillet (brown butter & sage)
 
 ## Ingredients
 - 250 ml water

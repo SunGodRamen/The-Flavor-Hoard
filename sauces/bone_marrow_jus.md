@@ -3,13 +3,14 @@ title: Bone Marrow Jus
 culture: French
 pairs_with:
   - Steak
-equipment:
-  - Oven & roasting tray/baking sheet (for bones)
-  - Large saucepan or small stockpot
-  - Wooden spoon
-  - Fine-mesh sieve or chinois
-  - Tongs
 ---
+
+## Equipment
+- Oven & roasting tray/baking sheet (for bones)
+- Large saucepan or small stockpot
+- Wooden spoon
+- Fine-mesh sieve or chinois
+- Tongs
 
 ## Ingredients
 - 500 g (1 lb) beef bones with marrow (cut lengthwise if possible)

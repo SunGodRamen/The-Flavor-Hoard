@@ -4,15 +4,16 @@ culture: German
 pairs_with:
   - Bratwurst with Sauerkraut
   - German Potato Salad
-equipment:
-  - Mixing bowl or stand mixer
-  - Bench scraper
-  - Pot (baking-soda dip)
-  - Slotted spatula or spider
-  - Baking sheets + parchment
-  - Pastry brush
-  - Oven
 ---
+
+## Equipment
+- Mixing bowl or stand mixer
+- Bench scraper
+- Pot (baking-soda dip)
+- Slotted spatula or spider
+- Baking sheets + parchment
+- Pastry brush
+- Oven
 
 ## Ingredients
 - 500 g bread flour

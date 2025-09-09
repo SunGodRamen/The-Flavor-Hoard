@@ -4,13 +4,14 @@ culture: Veg BBQ
 pairs_with:
   - Cucumber Relish Gel
   - Chimichurri
-equipment:
-  - Mixing bowl (marinade)
-  - Pastry/basting brush
-  - Grill or grill pan
-  - Tongs
-  - Chef’s knife & cutting board
 ---
+
+## Equipment
+- Mixing bowl (marinade)
+- Pastry/basting brush
+- Grill or grill pan
+- Tongs
+- Chef’s knife & cutting board
 
 ## Ingredients
 - 6 large portobello caps, stems removed

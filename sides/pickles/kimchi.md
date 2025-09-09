@@ -4,13 +4,14 @@ culture: Korean
 pairs_with:
   - Ramen Shoyu
   - Kimchi-Peanut Pancakes
-equipment:
-  - Chef’s knife & cutting board
-  - Large mixing bowl
-  - Food-safe gloves (recommended)
-  - Fermentation jar/crock + weight (optional)
-  - Measuring spoons
 ---
+
+## Equipment
+- Chef’s knife & cutting board
+- Large mixing bowl
+- Food-safe gloves (recommended)
+- Fermentation jar/crock + weight (optional)
+- Measuring spoons
 
 ## Ingredients
 - 1 medium napa cabbage

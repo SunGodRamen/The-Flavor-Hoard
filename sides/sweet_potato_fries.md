@@ -3,13 +3,14 @@ title: Sweet Potato Fries
 culture: American
 pairs_with:
   - Blueberry Grilled Cheese
-equipment:
-  - Oven
-  - Mixing bowl
-  - Baking sheet + parchment/silicone mat
-  - Spatula
-  - Chef’s knife & cutting board
 ---
+
+## Equipment
+- Oven
+- Mixing bowl
+- Baking sheet + parchment/silicone mat
+- Spatula
+- Chef’s knife & cutting board
 
 ## Ingredients
 - 2 large sweet potatoes, cut into fries

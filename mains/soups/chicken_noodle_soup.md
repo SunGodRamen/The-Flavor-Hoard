@@ -4,13 +4,14 @@ culture: American
 pairs_with:
   - Garlic Bread
   - Simple Green Salad
-equipment:
-  - Large pot
-  - Wooden spoon
-  - Ladle
-  - Chef’s knife & cutting board
-  - Measuring cups/spoons
 ---
+
+# Equipment
+- Large pot
+- Wooden spoon
+- Ladle
+- Chef’s knife & cutting board
+- Measuring cups/spoons
 
 ## Ingredients
 - 2 L chicken broth (see Chicken Broth recipe)

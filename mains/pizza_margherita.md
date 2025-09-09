@@ -5,15 +5,16 @@ pairs_with:
   - Caprese Salad
   - Negroni
 yield: Two 12–13 in pizza dough
-equipment:
-  - Mixing bowl or stand mixer
-  - Dough scraper & proof containers
-  - Kitchen scale (dough accuracy)
-  - Pizza steel/stone
-  - Oven (high heat/broil)
-  - Pizza peel (launch)
-  - Ladle/spoon (sauce)
 ---
+
+## Equipment
+- Mixing bowl or stand mixer
+- Dough scraper & proof containers
+- Kitchen scale (dough accuracy)
+- Pizza steel/stone
+- Oven (high heat/broil)
+- Pizza peel (launch)
+- Ladle/spoon (sauce)
 
 ## Ingredients
 ### Dough (24–48 h cold ferment)

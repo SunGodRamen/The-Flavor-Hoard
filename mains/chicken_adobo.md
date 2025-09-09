@@ -4,13 +4,14 @@ culture: Filipino
 pairs_with:
   - Rice
   - Pickled Cucumbers
-equipment:
-  - Dutch oven or deep skillet with lid
-  - Tongs
-  - Wooden spoon
-  - Measuring cups & spoons
-  - Bowl/plate (hold chicken)
 ---
+
+## Equipment
+- Dutch oven or deep skillet with lid
+- Tongs
+- Wooden spoon
+- Measuring cups & spoons
+- Bowl/plate (hold chicken)
 
 ## Ingredients
 - 1 kg chicken thighs

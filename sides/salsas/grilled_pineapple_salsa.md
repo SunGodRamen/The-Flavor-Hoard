@@ -5,12 +5,13 @@ pairs_with:
   - Taco al Pastor
   - Tacos
   - Chips
-equipment:
-  - Grill or grill pan
-  - Tongs
-  - Chef’s knife & cutting board
-  - Mixing bowl
 ---
+
+## Equipment
+- Grill or grill pan
+- Tongs
+- Chef’s knife & cutting board
+- Mixing bowl
 
 ## Ingredients
 - 1 ripe pineapple, peeled and sliced into rings

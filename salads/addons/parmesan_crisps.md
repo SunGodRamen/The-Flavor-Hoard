@@ -4,12 +4,13 @@ culture: Italian
 pairs_with:
   - Caesar Salad
   - Arugula & Parmesan Salad
-equipment:
-  - Baking sheet
-  - Parchment or silicone mat
-  - Oven
-  - Microplane (optional)
 ---
+
+## Equipment
+- Baking sheet
+- Parchment or silicone mat
+- Oven
+- Microplane (optional)
 
 ## Ingredients
 - 100 g finely grated parmesan cheese (Parmigiano-Reggiano preferred)

@@ -4,14 +4,15 @@ culture: French
 pairs_with:
   - Champagne
   - Apéritif
-equipment:
-  - Saucepan
-  - Wooden spoon/spatula
-  - Mixing bowl
-  - Piping bag & tip **or** spoons
-  - Baking sheet with parchment/silicone mat
-  - Oven
 ---
+
+## Equipment
+- Saucepan
+- Wooden spoon/spatula
+- Mixing bowl
+- Piping bag & tip **or** spoons
+- Baking sheet with parchment/silicone mat
+- Oven
 
 ## Ingredients
 - 125 ml water

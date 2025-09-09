@@ -5,12 +5,13 @@ pairs_with:
   - Caprese Salad
   - Arugula & Parmesan Salad
   - Grilled Vegetables
-equipment:
-  - Small saucepan
-  - Dropper/squeeze bottle or syringe
-  - Tall glass/jar with well-chilled oil
-  - Fine-mesh strainer
 ---
+
+## Equipment
+- Small saucepan
+- Dropper/squeeze bottle or syringe
+- Tall glass/jar with well-chilled oil
+- Fine-mesh strainer
 
 ## Ingredients
 - 100 ml balsamic vinegar (or balsamic reduction for sweeter pearls)

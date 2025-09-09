@@ -4,12 +4,13 @@ culture: Italian-American
 pairs_with:
   - Spaghetti Carbonara
   - Caprese Salad
-equipment:
-  - Bread knife
-  - Mixing bowl & spoon
-  - Baking sheet
-  - Oven
 ---
+
+## Equipment
+- Bread knife
+- Mixing bowl & spoon
+- Baking sheet
+- Oven
 
 ## Ingredients
 - 1 baguette or Italian bread

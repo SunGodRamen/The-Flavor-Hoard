@@ -3,14 +3,15 @@ title: Larb Moo Taco
 culture: Thai Lao Mexican Fusion
 pairs_with:
   - Riesling (Crisp)
-equipment:
-  - Skillet or sauté pan
-  - Mixing bowl (toss herbs/seasoning)
-  - Chef’s knife & cutting board
-  - Citrus juicer
-  - Measuring spoons
-  - Tortilla warmer or skillet
 ---
+
+## Equipment
+- Skillet or sauté pan
+- Mixing bowl (toss herbs/seasoning)
+- Chef’s knife & cutting board
+- Citrus juicer
+- Measuring spoons
+- Tortilla warmer or skillet
 
 ## Ingredients
 - 500 g ground pork

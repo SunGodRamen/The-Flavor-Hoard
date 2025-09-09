@@ -5,12 +5,13 @@ pairs_with:
   - Pickled Red Onions
   - Miso Soup
   - Ginger–Scallion Oil
-equipment:
-  - Rice cooker or pot (rice)
-  - Small bowl
-  - Chopsticks or whisk
-  - Spoon
 ---
+
+## Equipment
+- Rice cooker or pot (rice)
+- Small bowl
+- Chopsticks or whisk
+- Spoon
 
 ## Ingredients
 - 1 hot bowl steamed rice (200–250 g)

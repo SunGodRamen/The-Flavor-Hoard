@@ -3,13 +3,14 @@ title: Duck Breast with Cherry Gastrique
 culture: French
 pairs_with:
   - Pinot Noir
-equipment:
-  - Sharp knife (score skin)
-  - Skillet
-  - Small saucepan (gastrique)
-  - Tongs
-  - Instant-read thermometer (optional)
 ---
+
+## Equipment
+- Sharp knife (score skin)
+- Skillet
+- Small saucepan (gastrique)
+- Tongs
+- Instant-read thermometer (optional)
 
 ## Ingredients
 - 2 duck breasts

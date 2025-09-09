@@ -4,11 +4,12 @@ culture: Brazil
 pairs_with:
   - Desserts
   - Spicy Snacks
-equipment:
-  - Cocktail shaker **or** blender
-  - Jigger
-  - Rocks glass
 ---
+
+## Equipment
+- Cocktail shaker **or** blender
+- Jigger
+- Rocks glass
 
 ## Ingredients
 - 60 ml (2 oz) cachaça

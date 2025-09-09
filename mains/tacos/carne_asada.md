@@ -4,13 +4,14 @@ culture: Mexican
 pairs_with:
   - Salsa Roja
   - Mexican Lager
-equipment:
-  - Mixing bowl or zip bag (marinade)
-  - Grill or cast-iron skillet
-  - Tongs
-  - Chef’s knife & cutting board
-  - Tortilla warmer or skillet
 ---
+
+## Equipment
+- Mixing bowl or zip bag (marinade)
+- Grill or cast-iron skillet
+- Tongs
+- Chef’s knife & cutting board
+- Tortilla warmer or skillet
 
 ## Ingredients
 - 700 g flank or skirt steak

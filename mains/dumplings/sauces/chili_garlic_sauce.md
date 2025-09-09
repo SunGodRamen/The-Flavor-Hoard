@@ -4,12 +4,13 @@ culture: Singapore/Hainan
 pairs_with:
   - Hainanese Chicken Rice
   - Dumplings & Noodles
-equipment:
-  - Blender/food processor
-  - Citrus juicer
-  - Small saucepan (optional, for brief simmer)
-  - Jar or squeeze bottle (storage)
 ---
+
+## Equipment
+- Blender/food processor
+- Citrus juicer
+- Small saucepan (optional, for brief simmer)
+- Jar or squeeze bottle (storage)
 
 ## Ingredients
 - 80–100 g red chilies (Fresno for mild, add bird’s eye for heat), stems removed

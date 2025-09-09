@@ -3,13 +3,14 @@ title: Chicken Broth
 culture: Global
 pairs_with:
   - Chicken Noodle Soup
-equipment:
-  - Large stockpot
-  - Skimmer/spoon (defoam)
-  - Fine-mesh strainer
-  - Tongs
-  - Storage containers (cooling/holding)
 ---
+
+## Equipment
+- Large stockpot
+- Skimmer/spoon (defoam)
+- Fine-mesh strainer
+- Tongs
+- Storage containers (cooling/holding)
 
 ## Ingredients
 - 1.5 kg bone-in chicken pieces (legs, thighs, or whole cut-up chicken)

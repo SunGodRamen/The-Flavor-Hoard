@@ -3,13 +3,14 @@ title: Chicken Biryani (with Star Anise)
 culture: Indian
 pairs_with:
   - Naan
-equipment:
-  - Large pot (parboil rice) + colander
-  - Heavy pot/Dutch oven with tight lid (dum)
-  - Wooden spoon/spatula
-  - Small bowl (saffron milk)
-  - Foil or dough to seal lid
 ---
+
+## Equipment
+- Large pot (parboil rice) + colander
+- Heavy pot/Dutch oven with tight lid (dum)
+- Wooden spoon/spatula
+- Small bowl (saffron milk)
+- Foil or dough to seal lid
 
 ## Ingredients
 ### For the Rice

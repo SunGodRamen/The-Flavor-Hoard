@@ -4,15 +4,16 @@ culture: Thai Mexican Fusion
 pairs_with:
   - Papaya Cucumber Som Tam
   - Thai Basil Margarita
-equipment:
-  - Mixing bowl (marinade)
-  - Grill or skillet
-  - Tongs
-  - Small saucepan (warm peanut sauce)
-  - Chef’s knife & cutting board
-  - Mixing bowl (cucumber slaw)
-  - Tortilla warmer or skillet
 ---
+
+## Equipment
+- Mixing bowl (marinade)
+- Grill or skillet
+- Tongs
+- Small saucepan (warm peanut sauce)
+- Chef’s knife & cutting board
+- Mixing bowl (cucumber slaw)
+- Tortilla warmer or skillet
 
 ## Ingredients
 - 500 g chicken thighs, cubed

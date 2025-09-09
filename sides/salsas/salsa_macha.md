@@ -4,12 +4,13 @@ culture: Veracruz / Oaxaca (Mexico)
 pairs_with:
   - Tacos
   - Chips
-equipment:
-  - Small pot/saucepan
-  - Slotted spoon
-  - Blender
-  - Jar with lid
 ---
+
+## Equipment
+- Small pot/saucepan
+- Slotted spoon
+- Blender
+- Jar with lid
 
 ## Ingredients
 - 200 ml neutral oil

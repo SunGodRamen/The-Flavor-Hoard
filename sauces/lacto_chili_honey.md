@@ -8,15 +8,16 @@ pairs_with:
   - Cornbread
   - Roasted Vegetables
   - Grilled Portobello Steaks
-equipment:
-  - Blender or food processor
-  - Fermentation jar (glass) with loose lid or airlock
-  - Fermentation weight
-  - Mixing bowl & whisk
-  - Funnel & storage jar
-  - (Fine-mesh sieve)
-  - (pH strips or pH meter)
 ---
+
+## Equipment
+- Blender or food processor
+- Fermentation jar (glass) with loose lid or airlock
+- Fermentation weight
+- Mixing bowl & whisk
+- Funnel & storage jar
+- (Fine-mesh sieve)
+- (pH strips or pH meter)
 
 ## Ingredients
 ### Chili Mash

@@ -3,12 +3,13 @@ title: Hot Toddy
 culture: Winter Cocktail
 pairs_with:
   - Apfelstrudel
-equipment:
-  - Heatproof mug
-  - Jigger
-  - Bar spoon
-  - Kettle or small saucepan (hot water)
 ---
+
+## Equipment
+- Heatproof mug
+- Jigger
+- Bar spoon
+- Kettle or small saucepan (hot water)
 
 ## Ingredients
 - 60 ml (2 oz) whiskey

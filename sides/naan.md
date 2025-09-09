@@ -4,12 +4,13 @@ culture: Indian
 pairs_with:
   - Chicken Tikka Masala
   - Hummus
-equipment:
-  - Mixing bowl
-  - Rolling pin
-  - Skillet or griddle (or oven + stone)
-  - Pastry brush (butter/ghee)
 ---
+
+## Equipment
+- Mixing bowl
+- Rolling pin
+- Skillet or griddle (or oven + stone)
+- Pastry brush (butter/ghee)
 
 ## Ingredients
 - 250 g all-purpose flour

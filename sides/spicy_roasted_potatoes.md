@@ -3,12 +3,13 @@ title: Spicy Roasted Potatoes
 culture: Global
 pairs_with:
     - Steak
-equipment:
-  - Mixing bowl
-  - Baking sheet
-  - Oven
-  - Spatula
 ---
+
+## Equipment
+- Mixing bowl
+- Baking sheet
+- Oven
+- Spatula
 
 ## Ingredients
 - 500 g baby potatoes, halved

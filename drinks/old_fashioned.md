@@ -4,13 +4,14 @@ culture: American
 pairs_with:
   - Steak
   - Gougères
-equipment:
-  - Rocks glass
-  - Jigger
-  - Bar spoon
-  - Muddler (if using sugar cube)
-  - Peeler (orange peel)
 ---
+
+## Equipment
+- Rocks glass
+- Jigger
+- Bar spoon
+- Muddler (if using sugar cube)
+- Peeler (orange peel)
 
 ## Ingredients
 - 60 ml (2 oz) bourbon **or** rye whiskey

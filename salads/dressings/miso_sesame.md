@@ -4,11 +4,12 @@ culture: Japanese
 pairs_with:
   - Papaya & Cucumber Som Tam
   - Green Salads
-equipment:
-  - Small bowl
-  - Whisk
-  - Measuring spoons & cups
 ---
+
+## Equipment
+- Small bowl
+- Whisk
+- Measuring spoons & cups
 
 ## Ingredients
 - 1 tbsp white miso paste

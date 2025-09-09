@@ -5,13 +5,14 @@ menu_role: pasta
 pairs_with:
   - Soave
   - Arugula Salad
-equipment:
-  - Dutch oven or sauté pan
-  - Wooden spoon
-  - Chef’s knife & cutting board
-  - Pot + colander (pasta)
-  - Measuring cups
 ---
+
+## Equipment
+- Dutch oven or sauté pan
+- Wooden spoon
+- Chef’s knife & cutting board
+- Pot + colander (pasta)
+- Measuring cups
 
 ## Ingredients
 - 400 g fresh tagliatelle

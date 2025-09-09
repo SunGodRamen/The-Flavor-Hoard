@@ -4,14 +4,15 @@ culture: French
 pairs_with:
   - Caviar
   - Steak
-equipment:
-  - Mandoline
-  - Mixing bowl
-  - Parchment-lined loaf/square pan
-  - Oven
-  - Weights for pressing (e.g., cans)
-  - Skillet (searing portions)
 ---
+
+## Equipment
+- Mandoline
+- Mixing bowl
+- Parchment-lined loaf/square pan
+- Oven
+- Weights for pressing (e.g., cans)
+- Skillet (searing portions)
 
 ## Ingredients
 - 1.5 kg Yukon Gold potatoes, peeled

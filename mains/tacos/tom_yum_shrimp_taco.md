@@ -3,14 +3,15 @@ title: Tom Yum Shrimp Taco
 culture: Thai Mexican Fusion
 pairs_with:
   - Sauvignon Blanc
-equipment:
-  - Mixing bowl (marinade)
-  - Skillet or wok
-  - Tongs/spatula
-  - Chef’s knife & cutting board
-  - Citrus juicer
-  - Tortilla warmer, skillet, or grill (to warm tortillas)
 ---
+
+## Equipment
+- Mixing bowl (marinade)
+- Skillet or wok
+- Tongs/spatula
+- Chef’s knife & cutting board
+- Citrus juicer
+- Tortilla warmer, skillet, or grill (to warm tortillas)
 
 ## Ingredients
 - 400 g shrimp, peeled & deveined

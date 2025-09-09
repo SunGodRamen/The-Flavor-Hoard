@@ -5,12 +5,13 @@ pairs_with:
   - Pork
   - Chicken
   - Ribs
-equipment:
-  - Mixing bowl
-  - Measuring spoons
-  - Spoon/whisk
-  - Airtight jar or shaker
 ---
+
+## Equipment
+- Mixing bowl
+- Measuring spoons
+- Spoon/whisk
+- Airtight jar or shaker
 
 ## Ingredients
 - 3 tbsp kosher salt

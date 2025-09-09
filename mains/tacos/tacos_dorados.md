@@ -4,15 +4,16 @@ culture: Mexican
 pairs_with:
   - Salsa Roja
   - Salsa Verde
-equipment:
-  - Skillet (soften tortillas)
-  - Mixing bowl (filling)
-  - Toothpicks (to secure)
-  - Frying pan or pot + thermometer
-  - Tongs
-  - Wire rack + paper towels (drain)
-  - Serving tongs/spoon
 ---
+
+## Equipment
+- Skillet (soften tortillas)
+- Mixing bowl (filling)
+- Toothpicks (to secure)
+- Frying pan or pot + thermometer
+- Tongs
+- Wire rack + paper towels (drain)
+- Serving tongs/spoon
 
 ## Ingredients
 - 12 corn tortillas

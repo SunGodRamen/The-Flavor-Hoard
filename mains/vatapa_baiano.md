@@ -6,15 +6,16 @@ pairs_with:
   - Caipirinha
   - Acarajé (if making)
 yield: 4–5 servings
-equipment:
-  - Blender/food processor (grind nuts; optional for sauce)
-  - Medium pot or Dutch oven
-  - Wooden spoon/spatula
-  - Mixing bowl (soak bread)
-  - Fine-mesh strainer (quick shell stock, optional)
-  - Chef’s knife & cutting board
-  - Citrus juicer (lime)
 ---
+
+## Equipment
+- Blender/food processor (grind nuts; optional for sauce)
+- Medium pot or Dutch oven
+- Wooden spoon/spatula
+- Mixing bowl (soak bread)
+- Fine-mesh strainer (quick shell stock, optional)
+- Chef’s knife & cutting board
+- Citrus juicer (lime)
 
 ## Ingredients
 - 200 g day-old bread (crusts trimmed), torn

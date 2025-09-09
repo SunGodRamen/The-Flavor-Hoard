@@ -3,14 +3,15 @@ title: Espresso Martini
 culture: Contemporary Cocktail
 pairs_with:
   - Chocolate Desserts
-equipment:
-  - Cocktail shaker
-  - Jigger
-  - Hawthorne strainer
-  - Fine-mesh strainer (double strain)
-  - Coupe/martini glass
-  - Espresso maker (moka/AeroPress)
 ---
+
+## Equipment
+- Cocktail shaker
+- Jigger
+- Hawthorne strainer
+- Fine-mesh strainer (double strain)
+- Coupe/martini glass
+- Espresso maker (moka/AeroPress)
 
 ## Ingredients
 - 45 ml vodka

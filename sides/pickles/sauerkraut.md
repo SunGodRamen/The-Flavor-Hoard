@@ -4,13 +4,14 @@ culture: German
 pairs_with:
   - Bratwurst
   - Schnitzel
-equipment:
-  - Chef’s knife & cutting board
-  - Large bowl (massage cabbage)
-  - Fermentation jar/crock
-  - Tamper/pounder & weight (optional)
-  - Clean cloth/airlock (loose cover)
 ---
+
+## Equipment
+- Chef’s knife & cutting board
+- Large bowl (massage cabbage)
+- Fermentation jar/crock
+- Tamper/pounder & weight (optional)
+- Clean cloth/airlock (loose cover)
 
 ## Ingredients
 - 1 medium green cabbage

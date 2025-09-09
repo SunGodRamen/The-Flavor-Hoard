@@ -4,12 +4,13 @@ culture: Brazil
 pairs_with:
   - Pão de Queijo
   - Grilled Meats
-equipment:
-  - Rocks (Old Fashioned) glass
-  - Muddler
-  - Bar spoon
-  - Jigger
 ---
+
+## Equipment
+- Rocks (Old Fashioned) glass
+- Muddler
+- Bar spoon
+- Jigger
 
 ## Ingredients
 - 1 small, juicy lime (8 wedges)

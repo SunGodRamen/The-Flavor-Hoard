@@ -5,14 +5,15 @@ pairs_with:
   - Arugula & Parmesan Salad
   - Garlic Bread
   - Bone Marrow Jus
-equipment:
-  - Cast-iron or heavy skillet
-  - Tongs
-  - Instant-read thermometer
-  - Oven (optional finish)
-  - Sous-vide circulator, bags & vacuum sealer/zip bags (Method B)
-  - Paper towels (drying)
 ---
+
+## Equipment
+- Cast-iron or heavy skillet
+- Tongs
+- Instant-read thermometer
+- Oven (optional finish)
+- Sous-vide circulator, bags & vacuum sealer/zip bags (Method B)
+- Paper towels (drying)
 
 ## Ingredients
 - 4 filet mignon steaks (180–200 g each, ~5 cm thick)

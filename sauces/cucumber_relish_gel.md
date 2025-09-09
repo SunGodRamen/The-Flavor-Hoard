@@ -3,14 +3,15 @@ title: Cucumber Relish Gel
 culture: Modernist / Global
 pairs_with:
   - Peanut Satay Skewers
-equipment:
-  - Blender
-  - Cheesecloth or fine-mesh sieve
-  - Small saucepan
-  - Whisk
-  - Shallow dish or tray (to set gel)
-  - Knife or offset spatula (for cutting/serving)
 ---
+
+## Equipment
+- Blender
+- Cheesecloth or fine-mesh sieve
+- Small saucepan
+- Whisk
+- Shallow dish or tray (to set gel)
+- Knife or offset spatula (for cutting/serving)
 
 ## Ingredients
 - 2 large cucumbers (about 400 g / 14 oz), peeled, seeded, and chopped

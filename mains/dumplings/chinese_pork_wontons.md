@@ -4,13 +4,14 @@ culture: Chinese (Sichuan)
 pairs_with:
   - Cucumber Salad
   - Jasmine Tea
-equipment:
-  - Mixing bowl
-  - Small bowl of water (sealing)
-  - Large pot (boiling) + slotted spoon
-  - Serving bowls
-  - Small bowl (sauce)
 ---
+
+## Equipment
+- Mixing bowl
+- Small bowl of water (sealing)
+- Large pot (boiling) + slotted spoon
+- Serving bowls
+- Small bowl (sauce)
 
 ## Ingredients
 - 200 g ground pork

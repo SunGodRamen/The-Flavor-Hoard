@@ -4,15 +4,16 @@ culture: American
 pairs_with:
   - Buffalo Wings
   - BBQ
-equipment:
-  - Large pot (boil pasta)
-  - Colander
-  - Saucepan (roux/béchamel)
-  - Whisk & wooden spoon
-  - Box grater (cheese)
-  - Baking dish
-  - Oven
 ---
+
+## Equipment
+- Large pot (boil pasta)
+- Colander
+- Saucepan (roux/béchamel)
+- Whisk & wooden spoon
+- Box grater (cheese)
+- Baking dish
+- Oven
 
 ## Ingredients
 - 300 g elbow macaroni

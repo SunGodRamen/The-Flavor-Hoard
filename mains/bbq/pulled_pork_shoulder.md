@@ -4,15 +4,16 @@ culture: Carolina BBQ
 pairs_with:
   - Classic Baked Mac & Cheese
   - Sauerkraut
-equipment:
-  - Smoker or grill set for low-and-slow
-  - Leave-in probe + instant-read thermometer
-  - Butcher paper or heavy-duty foil (wrap)
-  - Spray bottle (apple juice + vinegar)
-  - Heat-resistant gloves & tongs
-  - Large cutting board & shredding forks/bear claws
-  - Cooler/Cambro (resting)
 ---
+
+## Equipment
+- Smoker or grill set for low-and-slow
+- Leave-in probe + instant-read thermometer
+- Butcher paper or heavy-duty foil (wrap)
+- Spray bottle (apple juice + vinegar)
+- Heat-resistant gloves & tongs
+- Large cutting board & shredding forks/bear claws
+- Cooler/Cambro (resting)
 
 ## Ingredients
 - 3–4 kg bone-in pork shoulder

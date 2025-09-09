@@ -3,15 +3,16 @@ title: Poached Lobster with Cognac Bisque
 culture: French
 pairs_with:
   - Chardonnay (oaked)
-equipment:
-  - Roasting pan or sheet pan (for shells)
-  - Heavy pot/Dutch oven (bisque)
-  - Wooden spoon
-  - Kitchen shears (split shells)
-  - Ladle
-  - Fine-mesh strainer/chinois
-  - Instant-read thermometer (poaching)
 ---
+
+## Equipment
+- Roasting pan or sheet pan (for shells)
+- Heavy pot/Dutch oven (bisque)
+- Wooden spoon
+- Kitchen shears (split shells)
+- Ladle
+- Fine-mesh strainer/chinois
+- Instant-read thermometer (poaching)
 
 ## Ingredients
 - 2 lobsters, ~600–700 g each

@@ -4,11 +4,12 @@ culture: Kansas City
 pairs_with:
   - Ribs
   - Pulled Pork
-equipment:
-  - Saucepan
-  - Whisk/spoon
-  - Funnel & storage bottle/jar
 ---
+
+## Equipment
+- Saucepan
+- Whisk/spoon
+- Funnel & storage bottle/jar
 
 ## Ingredients
 - 1 cup ketchup

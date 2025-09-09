@@ -3,13 +3,14 @@ title: Crispy Chicken Skin with Maple–Chili Glaze
 culture: Contemporary
 pairs_with:
   - Sparkling Wine
-equipment:
-  - Oven
-  - 2 baking sheets + parchment
-  - Pastry/basting brush
-  - Small saucepan (glaze)
-  - Wire rack (cooling)
 ---
+
+## Equipment
+- Oven
+- 2 baking sheets + parchment
+- Pastry/basting brush
+- Small saucepan (glaze)
+- Wire rack (cooling)
 
 ## Ingredients
 - Skins from 6–8 chicken thighs

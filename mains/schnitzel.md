@@ -4,14 +4,15 @@ culture: German
 pairs_with:
   - Sauerkraut
   - German Potato Salad
-equipment:
-  - Meat mallet
-  - Three shallow dishes (breading station)
-  - Large skillet (shallow fry)
-  - Tongs
-  - Wire rack + sheet pan (drain)
-  - Lemon wedges (service)
 ---
+
+## Equipment
+- Meat mallet
+- Three shallow dishes (breading station)
+- Large skillet (shallow fry)
+- Tongs
+- Wire rack + sheet pan (drain)
+- Lemon wedges (service)
 
 ## Ingredients
 - 4 veal or pork cutlets (about 150 g each)

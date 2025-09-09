@@ -3,11 +3,12 @@ title: Chimichurri Sauce
 culture: Argentinian
 pairs_with:
   - Steak
-equipment:
-  - Chef’s knife & cutting board
-  - Mixing bowl
-  - Whisk or spoon
 ---
+
+## Equipment
+- Chef’s knife & cutting board
+- Mixing bowl
+- Whisk or spoon
 
 ## Ingredients
 - 1 bunch fresh parsley, finely chopped

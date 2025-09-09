@@ -4,13 +4,14 @@ culture: French
 pairs_with:
   - Potato Purée
   - Pinot Noir
-equipment:
-  - Roasting pan or rack + sheet pan
-  - Saucepan (for sauce)
-  - Microplane/zester (orange zest)
-  - Carving knife & board
-  - Instant-read thermometer (recommended)
 ---
+
+## Equipment
+- Roasting pan or rack + sheet pan
+- Saucepan (for sauce)
+- Microplane/zester (orange zest)
+- Carving knife & board
+- Instant-read thermometer (recommended)
 
 ## Ingredients
 - 1 whole duck (2–2.5 kg)

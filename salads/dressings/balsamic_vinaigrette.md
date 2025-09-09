@@ -6,11 +6,12 @@ diet: vegetarian, gluten-free, vegan
 pairs_with:
   - Caprese Salad
   - Grilled Vegetables
-equipment:
-  - Small bowl or jar with lid
-  - Whisk
-  - Measuring cups & spoons
 ---
+
+## Equipment
+- Small bowl or jar with lid
+- Whisk
+- Measuring cups & spoons
 
 ## Ingredients
 - 60 ml (1/4 cup) balsamic vinegar

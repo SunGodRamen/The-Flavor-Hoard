@@ -3,14 +3,15 @@ title: Shoyu Ramen
 culture: Japanese
 pairs_with:
   - Sake
-equipment:
-  - Pot (broth)
-  - Pot (noodles) + strainer
-  - Ladle
-  - Tongs or chopsticks
-  - Serving bowls
-  - Timer (eggs/noodles)
 ---
+
+## Equipment
+- Pot (broth)
+- Pot (noodles) + strainer
+- Ladle
+- Tongs or chopsticks
+- Serving bowls
+- Timer (eggs/noodles)
 
 ## Ingredients
 - 2 portions fresh ramen noodles

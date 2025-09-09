@@ -4,13 +4,14 @@ source: https://www.tiktok.com/@deadgregs
 culture: American
 pairs_with:
   - Simple Green Salad
-equipment:
-  - Small saucepan (compote)
-  - Skillet or griddle
-  - Spatula
-  - Butter knife
-  - Chef’s knife & cutting board
 ---
+
+## Equipment
+- Small saucepan (compote)
+- Skillet or griddle
+- Spatula
+- Butter knife
+- Chef’s knife & cutting board
 
 ## Ingredients
 - 2 slices sourdough or wheat bread

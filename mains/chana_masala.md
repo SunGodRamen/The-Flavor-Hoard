@@ -4,13 +4,14 @@ culture: Indian
 pairs_with:
   - Naan
   - Basmati Rice
-equipment:
-  - Dutch oven/saucepan
-  - Wooden spoon/spatula
-  - Chef’s knife & cutting board
-  - Can opener
-  - Measuring spoons/cups
 ---
+
+## Equipment
+- Dutch oven/saucepan
+- Wooden spoon/spatula
+- Chef’s knife & cutting board
+- Can opener
+- Measuring spoons/cups
 
 ## Ingredients
 - 2 tbsp neutral oil

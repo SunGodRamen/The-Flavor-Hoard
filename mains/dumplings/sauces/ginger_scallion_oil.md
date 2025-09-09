@@ -7,13 +7,14 @@ pairs_with:
   - Poached Chicken
   - Rice & Noodles
 yield: ~2/3 cup (160 ml)
-equipment:
-  - Heatproof bowl
-  - Small saucepan (heat oil)
-  - Microplane (ginger) & knife
-  - Spoon/whisk
-  - Jar (storage)
 ---
+
+## Equipment
+- Heatproof bowl
+- Small saucepan (heat oil)
+- Microplane (ginger) & knife
+- Spoon/whisk
+- Jar (storage)
 
 ## Ingredients
 - 35–40 g finely minced ginger (≈3 tbsp, microplaned or knife-minced)

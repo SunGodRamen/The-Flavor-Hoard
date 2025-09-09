@@ -5,13 +5,14 @@ pairs_with:
   - Arugula & Parmesan Salad
   - Prosecco
 yield: 4 appetizers
-equipment:
-  - Very sharp chef’s knife
-  - Plastic wrap (to sandwich/pound slices)
-  - Meat mallet or rolling pin (gentle flattening)
-  - Chilled plates
-  - Vegetable peeler or cheese plane (parmesan shavings)
 ---
+
+## Equipment
+- Very sharp chef’s knife
+- Plastic wrap (to sandwich/pound slices)
+- Meat mallet or rolling pin (gentle flattening)
+- Chilled plates
+- Vegetable peeler or cheese plane (parmesan shavings)
 
 ## Ingredients
 - 320–400 g beef tenderloin (center-cut), very fresh

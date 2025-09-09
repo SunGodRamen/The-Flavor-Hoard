@@ -4,13 +4,14 @@ culture: Korean
 pairs_with:
   - Peanut Satay Skewers
   - Papaya & Cucumber Som Tam
-equipment:
-  - Mixing bowl
-  - Whisk
-  - Skillet
-  - Spatula
-  - Measuring cups & spoons
 ---
+
+## Equipment
+- Mixing bowl
+- Whisk
+- Skillet
+- Spatula
+- Measuring cups & spoons
 
 ## Ingredients
 - 150 g napa kimchi, chopped

@@ -3,12 +3,13 @@ title: Classic Dill Pickles
 culture: American
 pairs_with:
   - Blueberry Grilled Cheese
-equipment:
-  - Chef’s knife & cutting board
-  - Saucepan (brine)
-  - Sterilized jars & lids
-  - Funnel & ladle (optional)
 ---
+
+## Equipment
+- Chef’s knife & cutting board
+- Saucepan (brine)
+- Sterilized jars & lids
+- Funnel & ladle (optional)
 
 ## Ingredients
 - 6 small cucumbers (about 1 kg), quartered into spears

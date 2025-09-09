@@ -4,12 +4,13 @@ culture: French
 menu_role: starter
 pairs_with:
   - Muscadet
-equipment:
-  - Large pot or Dutch oven with lid
-  - Colander (to clean mussels)
-  - Ladle
-  - Fine-mesh strainer (optional, for broth)
 ---
+
+## Equipment
+- Large pot or Dutch oven with lid
+- Colander (to clean mussels)
+- Ladle
+- Fine-mesh strainer (optional, for broth)
 
 ## Ingredients
 - 1.5 kg mussels, cleaned

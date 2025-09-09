@@ -4,14 +4,15 @@ culture: American
 pairs_with:
   - Celery Sticks
   - Blue Cheese Dressing
-equipment:
-  - Sheet pans lined with foil
-  - Wire racks (airflow)
-  - Oven
-  - Large mixing bowl (saucing)
-  - Saucepan & whisk (wing sauce)
-  - Tongs
 ---
+
+## Equipment
+- Sheet pans lined with foil
+- Wire racks (airflow)
+- Oven
+- Large mixing bowl (saucing)
+- Saucepan & whisk (wing sauce)
+- Tongs
 
 ## Ingredients
 - 36 chicken wing segments (drums and flats)

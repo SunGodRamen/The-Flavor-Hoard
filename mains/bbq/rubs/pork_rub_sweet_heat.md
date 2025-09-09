@@ -4,12 +4,13 @@ culture: Memphis / KC
 pairs_with:
   - Pulled Pork
   - Spare Ribs
-equipment:
-  - Mixing bowl
-  - Measuring spoons
-  - Spoon/whisk
-  - Airtight jar
 ---
+
+## Equipment
+- Mixing bowl
+- Measuring spoons
+- Spoon/whisk
+- Airtight jar
 
 ## Ingredients
 - 3 tbsp light brown sugar

@@ -4,13 +4,14 @@ culture: German
 pairs_with:
   - Schnitzel
   - Sauerkraut
-equipment:
-  - Large pot (boil potatoes)
-  - Skillet (bacon & onions)
-  - Slotted spoon
-  - Mixing bowl (tossing, optional)
-  - Chef’s knife & cutting board
 ---
+
+## Equipment
+- Large pot (boil potatoes)
+- Skillet (bacon & onions)
+- Slotted spoon
+- Mixing bowl (tossing, optional)
+- Chef’s knife & cutting board
 
 ## Ingredients
 - 1 kg waxy potatoes (Yukon Gold or similar)
