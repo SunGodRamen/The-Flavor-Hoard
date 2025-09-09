@@ -5,6 +5,13 @@ pairs_with:
   - Caesar Salad
   - Spicy Roasted Potatoes
   - Bone Marrow Jus
+equipment:
+  - Cast-iron or heavy skillet
+  - Tongs
+  - Instant-read thermometer
+  - Oven (optional finish)
+  - Sous-vide circulator, bags (Method B)
+  - Paper towels (drying)
 ---
 
 ## Ingredients

@@ -5,6 +5,11 @@ pairs_with:
   - Tacos
   - BBQ
   - Salads
+equipment:
+  - Chef’s knife & cutting board
+  - Small saucepan
+  - Clean jar with lid
+  - Measuring cups & spoons
 ---
 
 ## Ingredients

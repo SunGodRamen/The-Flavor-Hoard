@@ -3,6 +3,12 @@ title: Hummus
 culture: Middle Eastern
 pairs_with:
   - Naan
+equipment:
+  - Large pot (cook chickpeas)
+  - Colander
+  - Food processor or blender
+  - Spatula
+  - Measuring cups & spoons
 ---
 
 ## Ingredients

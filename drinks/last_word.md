@@ -4,6 +4,12 @@ culture: American
 pairs_with:
   - BBQ
   - Desserts
+equipment:
+  - Cocktail shaker
+  - Jigger
+  - Hawthorne strainer
+  - Coupe glass
+  - Citrus juicer/reamer
 ---
 
 ## Ingredients

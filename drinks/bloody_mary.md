@@ -3,6 +3,12 @@ title: Bloody Mary
 culture: Brunch Classic
 pairs_with:
   - Breakfast
+equipment:
+  - Two shaker tins (for rolling)
+  - Jigger
+  - Bar spoon
+  - Tall glass (highball/Collins)
+  - Citrus juicer/reamer
 ---
 
 ## Ingredients

@@ -3,6 +3,12 @@ title: Chicken Broth
 culture: Global
 pairs_with:
   - Chicken Noodle Soup
+equipment:
+  - Large stockpot
+  - Skimmer/spoon (defoam)
+  - Fine-mesh strainer
+  - Tongs
+  - Storage containers (cooling/holding)
 ---
 
 ## Ingredients

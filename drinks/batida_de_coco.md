@@ -4,7 +4,10 @@ culture: Brazil
 pairs_with:
   - Desserts
   - Spicy Snacks
-yield: 1–2 cocktails (shake or blend)
+equipment:
+  - Cocktail shaker **or** blender
+  - Jigger
+  - Rocks glass
 ---
 
 ## Ingredients

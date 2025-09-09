@@ -6,6 +6,12 @@ pairs_with:
   - Chicken Parmesan
   - Gnocchi di Patate
 yield: ~750–900 ml (serves 4)
+equipment:
+  - Saucepan or sauté pan
+  - Wooden spoon
+  - Can opener
+  - Food mill or blender (optional)
+  - Ladle/storage containers
 ---
 
 ## Ingredients

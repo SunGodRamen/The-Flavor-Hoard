@@ -5,6 +5,13 @@ pairs_with:
   - Molho de Pimenta Malagueta
   - Pickled Red Onions
 yield: 10–12 pastéis (12–14 cm)
+equipment:
+  - Rolling pin
+  - Deep pot or skillet (for frying)
+  - Clip-on or instant-read fry thermometer
+  - Fork (crimping edges)
+  - Spider/tongs
+  - Wire rack + sheet pan (drain)
 ---
 
 ## Ingredients

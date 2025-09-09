@@ -6,6 +6,14 @@ pairs_with:
   - Garlic Bread
   - Arugula & Parmesan Salad
 yield: 4 servings
+equipment:
+  - Meat mallet or rolling pin (pound cutlets)
+  - Three shallow dishes (breading station)
+  - Large skillet (shallow-fry) + fry thermometer (optional)
+  - Tongs
+  - Wire rack + sheet pan (drain)
+  - Baking dish
+  - Oven
 ---
 
 ## Ingredients

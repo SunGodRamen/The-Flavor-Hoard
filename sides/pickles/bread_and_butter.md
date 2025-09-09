@@ -3,6 +3,12 @@ title: Bread & Butter Pickles
 culture: American
 pairs_with:
   - Blueberry Grilled Cheese
+equipment:
+  - Chef’s knife or mandoline
+  - Large bowl + colander (salt/ice step)
+  - Saucepan
+  - Sterilized jars & lids
+  - Ladle & funnel (optional)
 ---
 
 ## Ingredients

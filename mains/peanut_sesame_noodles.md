@@ -5,7 +5,14 @@ pairs_with:
   - Pickled Cucumbers
   - Kimchi
 yield: 2–3 servings
-vegan: true
+equipment:
+  - Large pot (boil noodles)
+  - Colander or spider
+  - Mixing bowl
+  - Whisk or fork
+  - Measuring cups & spoons
+  - Microplane (optional, garlic)
+  - Tongs or chopsticks
 ---
 
 ## Ingredients

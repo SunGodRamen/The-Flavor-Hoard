@@ -4,6 +4,11 @@ culture: Brazil
 pairs_with:
   - Pão de Queijo
   - Grilled Meats
+equipment:
+  - Rocks (Old Fashioned) glass
+  - Muddler
+  - Bar spoon
+  - Jigger
 ---
 
 ## Ingredients

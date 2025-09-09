@@ -4,6 +4,12 @@ culture: American
 pairs_with:
   - Steak
   - Charcuterie
+equipment:
+  - Mixing glass
+  - Jigger
+  - Bar spoon
+  - Julep or Hawthorne strainer
+  - Coupe or rocks glass
 ---
 
 ## Ingredients

@@ -4,6 +4,12 @@ culture: Cajun
 pairs_with:
   - White Rice
   - Cornbread
+equipment:
+  - Dutch oven (roux & simmer)
+  - Whisk & wooden spoon
+  - Chef’s knife & cutting board
+  - Rice cooker or pot (for rice)
+  - Ladle
 ---
 
 ## Ingredients

@@ -6,6 +6,11 @@ pairs_with:
   - Japanese Gyoza
   - Chinese Pork Wontons in Chili Oil
   - Nepalese Momos
+equipment:
+  - Small mixing bowl or measuring jug
+  - Whisk/spoon
+  - Microplane (garlic/ginger)
+  - Small jar or bottle (storage)
 ---
 
 ## Ingredients

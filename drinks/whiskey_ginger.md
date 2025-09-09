@@ -4,6 +4,10 @@ culture: American
 pairs_with:
   - Buffalo Wings
   - Filet Mignon
+equipment:
+  - Highball glass
+  - Jigger
+  - Bar spoon
 ---
 
 ## Ingredients

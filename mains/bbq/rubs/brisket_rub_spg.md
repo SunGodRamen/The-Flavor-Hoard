@@ -3,6 +3,11 @@ title: Brisket Rub (SPG)
 culture: Texas BBQ
 pairs_with:
   - Brisket
+equipment:
+  - Small bowl
+  - Measuring spoons
+  - Spoon/whisk
+  - Airtight shaker/jar
 ---
 
 ## Ingredients

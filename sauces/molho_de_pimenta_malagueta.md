@@ -5,8 +5,11 @@ pairs_with:
   - Churrasco (steaks, linguiça)
   - Pastel de Queijo
   - Coxinha
-yield: ~300 ml
-diet: vegan, gluten-free
+equipment:
+  - Knife **or** food processor
+  - Small saucepan (heat vinegar/brine)
+  - Heatproof glass jar with lid
+  - Funnel
 ---
 
 ## Ingredients

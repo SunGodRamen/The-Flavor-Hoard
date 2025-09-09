@@ -4,6 +4,13 @@ culture: German
 pairs_with:
   - Coffee
   - Vanilla Ice Cream
+equipment:
+  - Mixing bowls
+  - Large tea towel/cloth (for stretching dough)
+  - Rolling pin
+  - Baking sheet + parchment
+  - Pastry brush
+  - Oven
 ---
 
 ## Ingredients

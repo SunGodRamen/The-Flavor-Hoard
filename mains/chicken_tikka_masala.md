@@ -3,6 +3,12 @@ title: Chicken Tikka Masala
 culture: Indian (British-Indian)
 pairs_with:
   - Naan
+equipment:
+  - Mixing bowl (marinade)
+  - Large skillet/sauté pan
+  - Wooden spoon/spatula
+  - Blender or immersion blender (optional, smoother sauce)
+  - Chef’s knife & cutting board
 ---
 
 ## Ingredients

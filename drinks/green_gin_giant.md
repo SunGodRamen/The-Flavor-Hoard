@@ -4,6 +4,11 @@ culture: Contemporary Cocktail
 pairs_with:
   - Som Tam Taco
   - Satay Chicken Taco
+equipment:
+  - Cocktail shaker
+  - Muddler
+  - Jigger
+  - Tall glass (Collins/highball)
 ---
 
 ## Ingredients

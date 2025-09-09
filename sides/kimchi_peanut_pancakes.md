@@ -4,6 +4,12 @@ culture: Korean
 pairs_with:
   - Peanut Satay Skewers
   - Papaya & Cucumber Som Tam
+equipment:
+  - Mixing bowl
+  - Whisk
+  - Skillet
+  - Spatula
+  - Measuring cups & spoons
 ---
 
 ## Ingredients

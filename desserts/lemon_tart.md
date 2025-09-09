@@ -5,6 +5,16 @@ yield: 1 tart (23 cm / 9 in)
 pairs_with:
   - Champagne
   - Coffee
+equipment:
+  - Mixing bowl or food processor (pâte sucrée)
+  - Rolling pin
+  - 23 cm / 9 in tart pan with removable bottom
+  - Parchment & pie weights (blind bake)
+  - Saucepan & whisk (curd)
+  - Instant-read thermometer (target 75–80°C / 170–176°F)
+  - Fine-mesh sieve
+  - Microplane (zest)
+  - Oven
 ---
 
 ## Pâte Sucrée (Sweet Tart Shell)

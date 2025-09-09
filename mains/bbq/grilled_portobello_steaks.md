@@ -4,6 +4,12 @@ culture: Veg BBQ
 pairs_with:
   - Cucumber Relish Gel
   - Chimichurri
+equipment:
+  - Mixing bowl (marinade)
+  - Pastry/basting brush
+  - Grill or grill pan
+  - Tongs
+  - Chef’s knife & cutting board
 ---
 
 ## Ingredients

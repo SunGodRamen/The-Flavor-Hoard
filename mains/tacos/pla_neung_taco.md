@@ -4,6 +4,12 @@ culture: Thai Mexican Fusion
 pairs_with:
   - Thai Basil Margarita
   - Pilsner (Crisp)
+equipment:
+  - Steamer setup (pot with rack/basket & lid)
+  - Mixing bowl (sauce)
+  - Chef’s knife & cutting board
+  - Small skillet (crisp garlic, if making)
+  - Tortilla warmer or skillet
 ---
 
 ## Ingredients

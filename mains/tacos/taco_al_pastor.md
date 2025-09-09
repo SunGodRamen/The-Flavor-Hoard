@@ -4,6 +4,14 @@ culture: Mexican
 pairs_with:
   - Grilled Pineapple Salsa
   - Mexican Lager
+equipment:
+  - Blender (marinade)
+  - Grill or grill pan (or vertical trompo if available)
+  - Skewers (optional for stacked roast)
+  - Tongs
+  - Chef’s knife & cutting board
+  - Bowl/containers for marinating
+  - Tortilla warmer or skillet
 ---
 
 ## Ingredients

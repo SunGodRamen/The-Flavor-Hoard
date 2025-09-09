@@ -4,6 +4,10 @@ culture: Japanese
 pairs_with:
   - Papaya & Cucumber Som Tam
   - Green Salads
+equipment:
+  - Small bowl
+  - Whisk
+  - Measuring spoons & cups
 ---
 
 ## Ingredients

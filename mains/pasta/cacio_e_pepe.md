@@ -4,7 +4,14 @@ culture: Roman (Lazio)
 pairs_with:
   - Arugula & Parmesan Salad
   - White Wine
-yield: 2 hearty servings
+yield: 2 servings
+equipment:
+  - Wide sauté pan or skillet
+  - Large pot (pasta)
+  - Tongs
+  - Ladle (starchy water)
+  - Mixing bowl (cheese paste)
+  - Microplane & pepper mill
 ---
 
 ## Ingredients

@@ -3,6 +3,10 @@ title: Chimichurri Sauce
 culture: Argentinian
 pairs_with:
   - Steak
+equipment:
+  - Chef’s knife & cutting board
+  - Mixing bowl
+  - Whisk or spoon
 ---
 
 ## Ingredients

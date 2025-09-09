@@ -4,6 +4,12 @@ culture: Nepalese
 yield: ~250 ml
 pairs_with:
   - Nepalese Momos
+equipment:
+  - Broiler or cast-iron skillet (to char)
+  - Blender/food processor or mortar & pestle
+  - Small pan (temper oil & spices)
+  - Heatproof bowl
+  - Chef’s knife & cutting board
 ---
 
 ## Ingredients

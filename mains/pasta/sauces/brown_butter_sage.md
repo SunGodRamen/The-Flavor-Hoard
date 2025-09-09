@@ -4,11 +4,15 @@ filename: sauces/brown_butter_sage.md
 culture: Italian
 pairs_with:
   - Gnocchi di Patate
-  - Ricotta & Spinach Ravioli
-  - Pumpkin Tortelli
-  - Butternut Squash
-  - White Fish (sole/cod)
 yield: ~4 pasta servings
+equipment:
+  - Light-colored skillet or sauté pan
+  - Wooden spoon or heatproof silicone spatula
+  - Tongs or slotted spoon (to remove sage/garlic)
+  - Measuring spoons
+  - Ladle or heatproof measuring cup (for pasta water)
+  - Microplane or fine grater (Parmigiano & lemon zest)
+  - Citrus juicer or reamer (optional)
 ---
 
 ## Ingredients

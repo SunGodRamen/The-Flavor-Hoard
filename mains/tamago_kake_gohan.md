@@ -5,8 +5,11 @@ pairs_with:
   - Pickled Red Onions
   - Miso Soup
   - Ginger–Scallion Oil
-diet: vegetarian
-yield: 1 bowl
+equipment:
+  - Rice cooker or pot (rice)
+  - Small bowl
+  - Chopsticks or whisk
+  - Spoon
 ---
 
 ## Ingredients

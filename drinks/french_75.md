@@ -4,6 +4,13 @@ culture: French
 pairs_with:
   - Spaghetti Carbonara
   - Light Salads
+equipment:
+  - Cocktail shaker
+  - Jigger
+  - Hawthorne strainer
+  - Champagne flute
+  - Citrus juicer/reamer
+  - Peeler/channel knife (twist)
 ---
 
 ## Ingredients

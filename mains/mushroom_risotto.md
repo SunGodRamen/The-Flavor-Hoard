@@ -4,6 +4,13 @@ culture: Italian
 pairs_with:
   - Arugula & Parmesan Salad
   - White Wine
+equipment:
+  - Wide sauté pan or saucier
+  - Saucepan (keep stock hot)
+  - Wooden spoon
+  - Skillet (sauté mushrooms)
+  - Ladle
+  - Microplane (parmesan, optional)
 ---
 
 ## Ingredients

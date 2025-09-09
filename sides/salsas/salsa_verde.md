@@ -4,6 +4,11 @@ culture: Mexican
 pairs_with:
   - Tacos
   - Chips
+equipment:
+  - Sheet pan + oven/broiler
+  - Blender or food processor
+  - Tongs
+  - Chef’s knife & cutting board
 ---
 
 ## Ingredients

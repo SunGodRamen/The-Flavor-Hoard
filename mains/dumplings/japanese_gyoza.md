@@ -5,6 +5,13 @@ pairs_with:
   - Shoyu Ramen
   - Miso Soup
   - Sake
+equipment:
+  - Mixing bowl
+  - Small bowl of water (sealing)
+  - Nonstick or cast-iron skillet with lid
+  - Spatula
+  - Measuring cup (for steaming water)
+  - Plate or tray (resting)
 ---
 
 ## Ingredients

@@ -3,6 +3,13 @@ title: Cucumber Relish Gel
 culture: Modernist / Global
 pairs_with:
   - Peanut Satay Skewers
+equipment:
+  - Blender
+  - Cheesecloth or fine-mesh sieve
+  - Small saucepan
+  - Whisk
+  - Shallow dish or tray (to set gel)
+  - Knife or offset spatula (for cutting/serving)
 ---
 
 ## Ingredients

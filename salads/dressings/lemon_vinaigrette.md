@@ -1,11 +1,13 @@
 ---
 title: Classic Lemon Vinaigrette
 culture: French
-menu_role: salad_dressing
-diet: vegan, gluten-free
 pairs_with:
   - Arugula & Parmesan Salad
   - Seafood
+equipment:
+  - Small bowl or jar with lid
+  - Whisk
+  - Measuring cups & spoons
 ---
 
 ## Ingredients

@@ -4,6 +4,15 @@ culture: Memphis BBQ
 pairs_with:
   - Kansas City Sauce
   - German Potato Salad
+equipment:
+  - Smoker or grill (indirect heat)
+  - Paper towels (membrane removal)
+  - Small bowl/brush (mustard slather)
+  - Spray bottle (spritz)
+  - Foil or butcher paper (optional wrap)
+  - Probe thermometer (doneness check)
+  - Basting brush (for wet style)
+  - Tongs
 ---
 
 ## Ingredients

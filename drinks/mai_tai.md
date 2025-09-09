@@ -3,6 +3,13 @@ title: Mai Tai
 culture: Tiki
 pairs_with:
   - Peanut Satay Skewers
+equipment:
+  - Cocktail shaker
+  - Jigger
+  - Hawthorne strainer
+  - Rocks glass
+  - Ice crusher or Lewis bag & mallet (crushed ice)
+  - Citrus juicer/reamer
 ---
 
 ## Ingredients

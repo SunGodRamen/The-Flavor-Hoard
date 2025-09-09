@@ -4,6 +4,12 @@ culture: American
 pairs_with:
   - Steak
   - Gougères
+equipment:
+  - Rocks glass
+  - Jigger
+  - Bar spoon
+  - Muddler (if using sugar cube)
+  - Peeler (orange peel)
 ---
 
 ## Ingredients

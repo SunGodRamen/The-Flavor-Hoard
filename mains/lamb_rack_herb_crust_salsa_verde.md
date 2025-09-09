@@ -3,6 +3,13 @@ title: Herb-Crusted Lamb Rack with Salsa Verde
 culture: Modern European
 pairs_with:
   - Syrah
+equipment:
+  - Skillet (initial sear) or roasting rack + sheet pan
+  - Oven
+  - Instant-read thermometer
+  - Mixing bowl (herb crust)
+  - Microplane/zester (lemon)
+  - Chef’s knife & cutting board
 ---
 
 ## Ingredients

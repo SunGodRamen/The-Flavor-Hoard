@@ -5,6 +5,17 @@ pairs_with:
   - Chili–Garlic Sauce
   - Ginger–Scallion Oil
 yield: 4 servings
+equipment:
+  - Large stockpot (poaching)
+  - Instant-read thermometer
+  - Large bowl + ice (ice bath)
+  - Ladle & spider/tongs
+  - Rice cooker or saucepan with tight lid
+  - Small saucepan (hot oil for ginger–scallion)
+  - Heatproof bowl (to bloom aromatics)
+  - Blender/food processor (chili sauce)
+  - Fine-mesh strainer (broth)
+  - Chef’s knife/cleaver & cutting board
 ---
 
 ## Ingredients

@@ -7,7 +7,12 @@ pairs_with:
   - Feijoada
   - Caipirinha
 yield: 28–32 small puffs
-diet: gluten-free
+equipment:
+  - Small saucepan (scald liquid)
+  - Large mixing bowl & sturdy spoon or stand mixer (paddle)
+  - Baking sheets + parchment
+  - Oven
+  - Measuring cups & spoons
 ---
 
 ## Ingredients

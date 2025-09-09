@@ -4,6 +4,10 @@ culture: Kansas City
 pairs_with:
   - Ribs
   - Pulled Pork
+equipment:
+  - Saucepan
+  - Whisk/spoon
+  - Funnel & storage bottle/jar
 ---
 
 ## Ingredients

@@ -3,6 +3,12 @@ title: Beef & Guinness Stew
 culture: Irish
 pairs_with:
   - Garlic Bread
+equipment:
+  - Dutch oven or heavy pot with lid
+  - Wooden spoon
+  - Chef’s knife & cutting board
+  - Measuring cups
+  - Ladle
 ---
 
 ## Ingredients

@@ -5,6 +5,12 @@ yield: 1 L
 pairs_with:
   - Miso Soup
   - Shoyu Ramen
+equipment:
+  - Saucepan
+  - Thermometer (optional, for 80°C cue)
+  - Fine-mesh strainer or chinois
+  - Cheesecloth (optional, clearer stock)
+  - Storage containers
 ---
 
 ## Ichiban Dashi (primary)

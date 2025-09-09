@@ -4,7 +4,15 @@ culture: Neapolitan-inspired
 pairs_with:
   - Caprese Salad
   - Negroni
-yield: Two 12–13 in pizzas
+yield: Two 12–13 in pizza dough
+equipment:
+  - Mixing bowl or stand mixer
+  - Dough scraper & proof containers
+  - Kitchen scale (dough accuracy)
+  - Pizza steel/stone
+  - Oven (high heat/broil)
+  - Pizza peel (launch)
+  - Ladle/spoon (sauce)
 ---
 
 ## Ingredients

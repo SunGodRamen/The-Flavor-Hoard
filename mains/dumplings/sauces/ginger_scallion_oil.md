@@ -7,7 +7,12 @@ pairs_with:
   - Poached Chicken
   - Rice & Noodles
 yield: ~2/3 cup (160 ml)
-diet: vegan, gluten-free
+equipment:
+  - Heatproof bowl
+  - Small saucepan (heat oil)
+  - Microplane (ginger) & knife
+  - Spoon/whisk
+  - Jar (storage)
 ---
 
 ## Ingredients

@@ -4,6 +4,12 @@ culture: German
 pairs_with:
   - Schnitzel
   - Sauerkraut
+equipment:
+  - Large pot (boil potatoes)
+  - Skillet (bacon & onions)
+  - Slotted spoon
+  - Mixing bowl (tossing, optional)
+  - Chef’s knife & cutting board
 ---
 
 ## Ingredients

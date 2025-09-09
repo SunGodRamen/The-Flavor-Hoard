@@ -5,6 +5,13 @@ pairs_with:
   - Sugo al Pomodoro
   - Brown Butter & Sage
 yield: 4 servings
+equipment:
+  - Oven + baking sheet/rack (bake potatoes)
+  - Potato ricer or food mill
+  - Bench scraper
+  - Large pot (boil)
+  - Slotted spoon/skimmer
+  - Gnocchi board or fork (optional)
 ---
 
 ## Ingredients

@@ -3,6 +3,10 @@ title: Caprese Salad
 culture: Italian
 pairs_with:
   - Spaghetti Carbonara
+equipment:
+  - Chef’s knife & cutting board
+  - Serving platter
+  - Small bowl (optional, for glaze/oil)
 ---
 
 ## Ingredients

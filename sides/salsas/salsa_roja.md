@@ -4,6 +4,11 @@ culture: Mexican
 pairs_with:
   - Tacos
   - Chips
+equipment:
+  - Skillet or broiler (char)
+  - Blender
+  - Small saucepan (simmer)
+  - Tongs
 ---
 
 ## Ingredients

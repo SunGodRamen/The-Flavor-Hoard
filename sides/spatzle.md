@@ -5,6 +5,12 @@ pairs_with:
   - Red Cabbage
   - Sauerkraut
   - Schnitzel
+equipment:
+  - Mixing bowl
+  - Large pot (boiling water)
+  - Spätzle maker or colander/large-hole grater
+  - Slotted spoon
+  - Skillet (butter-fry, optional)
 ---
 
 ## Ingredients

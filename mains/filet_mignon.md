@@ -5,6 +5,13 @@ pairs_with:
   - Arugula & Parmesan Salad
   - Garlic Bread
   - Bone Marrow Jus
+equipment:
+  - Cast-iron or heavy skillet
+  - Tongs
+  - Instant-read thermometer
+  - Oven (optional finish)
+  - Sous-vide circulator, bags & vacuum sealer/zip bags (Method B)
+  - Paper towels (drying)
 ---
 
 ## Ingredients

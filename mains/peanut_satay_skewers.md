@@ -4,6 +4,13 @@ culture: Thai
 pairs_with:
   - Papaya & Cucumber Som Tam
   - Cucumber Relish Gel
+equipment:
+  - Mixing bowl (marinade)
+  - Chef’s knife & cutting board
+  - Skewers (metal or soaked bamboo)
+  - Grill or grill pan (or broiler)
+  - Tongs
+  - Basting/pastry brush (for glaze)
 ---
 
 ## Ingredients

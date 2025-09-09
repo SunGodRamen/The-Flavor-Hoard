@@ -6,6 +6,12 @@ pairs_with:
   - Duck à l’Orange
   - Steak au Poivre
   - Hainanese Chicken Rice
+equipment:
+  - Large pot + colander
+  - Potato ricer/food mill or masher
+  - Saucepan (warm milk/cream)
+  - Wooden spoon or spatula
+  - Whisk (optional)
 ---
 
 ## Ingredients

@@ -6,6 +6,13 @@ pairs_with:
   - Gyoza
   - Pierogi
   - Wontons
+equipment:
+  - Mixing bowl
+  - Chopsticks/fork (mixing)
+  - Bench scraper (optional)
+  - Rolling pin
+  - Round cutter (7–9 cm, optional)
+  - Damp towel (to cover dough)
 ---
 
 ## Ingredients

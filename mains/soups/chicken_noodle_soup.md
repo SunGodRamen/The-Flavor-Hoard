@@ -4,6 +4,12 @@ culture: American
 pairs_with:
   - Garlic Bread
   - Simple Green Salad
+equipment:
+  - Large pot
+  - Wooden spoon
+  - Ladle
+  - Chef’s knife & cutting board
+  - Measuring cups/spoons
 ---
 
 ## Ingredients

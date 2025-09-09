@@ -4,6 +4,13 @@ culture: Polish
 pairs_with:
   - Sauerkraut
   - Caramelized Onions
+equipment:
+  - Mixing bowl
+  - Rolling pin
+  - Round cutter (8–9 cm)
+  - Large pot (boiling) + slotted spoon
+  - Skillet (butter & onions)
+  - Colander (optional)
 ---
 
 ## Ingredients

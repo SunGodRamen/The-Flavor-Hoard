@@ -5,6 +5,13 @@ pairs_with:
   - Ramen Shoyu
   - Sushi 
   - Light Salads
+equipment:
+  - Saucepan
+  - Ladle
+  - Small bowl (miso slurry)
+  - Whisk/chopsticks
+  - Chef’s knife & cutting board
+  - Soup bowls
 ---
 
 ## Ingredients

@@ -1,9 +1,16 @@
 ---
-title: Classic Schnitzel
+title: Schnitzel
 culture: German
 pairs_with:
   - Sauerkraut
   - German Potato Salad
+equipment:
+  - Meat mallet
+  - Three shallow dishes (breading station)
+  - Large skillet (shallow fry)
+  - Tongs
+  - Wire rack + sheet pan (drain)
+  - Lemon wedges (service)
 ---
 
 ## Ingredients

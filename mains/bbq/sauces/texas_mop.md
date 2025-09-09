@@ -4,6 +4,10 @@ culture: Texas
 pairs_with:
   - Brisket
   - Beef Ribs
+equipment:
+  - Small saucepan (warm/hold)
+  - Squeeze bottle or bowl
+  - Mop brush or pastry brush
 ---
 
 ## Ingredients

@@ -5,6 +5,14 @@ pairs_with:
   - Spicy Roasted Potatoes
   - Chimichurri
   - German Potato Salad
+equipment:
+  - Smoker or grill set for low-and-slow (wood/oak)
+  - Leave-in probe + instant-read thermometer
+  - Butcher paper or heavy-duty foil (wrap)
+  - Spray bottle (for spritzing)
+  - Heat-resistant gloves & tongs
+  - Large cutting board & slicing knife
+  - Cooler/Cambro (resting)
 ---
 
 ## Ingredients

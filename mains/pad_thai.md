@@ -4,6 +4,12 @@ culture: Thai
 pairs_with:
   - Papya Cucumber Som Tam
   - Thai Basil Margarita
+equipment:
+  - Wok or large sauté pan
+  - Wok spatula/turner
+  - Mixing bowl (for sauce)
+  - Bowl for soaking noodles + colander
+  - Knife & cutting board
 ---
 
 ## Ingredients

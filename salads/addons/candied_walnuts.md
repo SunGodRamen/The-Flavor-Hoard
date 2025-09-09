@@ -4,6 +4,10 @@ culture: Global
 pairs_with:
   - Arugula & Parmesan Salad
   - Baked Brie
+equipment:
+  - Skillet or saucepan
+  - Parchment-lined baking sheet
+  - Spatula or forks (separate)
 ---
 
 ## Ingredients

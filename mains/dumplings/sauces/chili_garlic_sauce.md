@@ -4,6 +4,11 @@ culture: Singapore/Hainan
 pairs_with:
   - Hainanese Chicken Rice
   - Dumplings & Noodles
+equipment:
+  - Blender/food processor
+  - Citrus juicer
+  - Small saucepan (optional, for brief simmer)
+  - Jar or squeeze bottle (storage)
 ---
 
 ## Ingredients

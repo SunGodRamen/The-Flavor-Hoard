@@ -4,6 +4,12 @@ culture: Thai Mexican Fusion
 pairs_with:
   - Papaya Cucumber Som Tam
   - Thai Basil Margarita
+equipment:
+  - Mortar & pestle (or mixing bowl + whisk)
+  - Julienne peeler/mandoline (papaya/cucumber)
+  - Mixing bowl (tossing)
+  - Chef’s knife & cutting board
+  - Tortilla warmer or skillet
 ---
 
 ## Ingredients

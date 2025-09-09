@@ -3,6 +3,11 @@ title: Classic Dill Pickles
 culture: American
 pairs_with:
   - Blueberry Grilled Cheese
+equipment:
+  - Chef’s knife & cutting board
+  - Saucepan (brine)
+  - Sterilized jars & lids
+  - Funnel & ladle (optional)
 ---
 
 ## Ingredients

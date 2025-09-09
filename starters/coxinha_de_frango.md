@@ -5,6 +5,15 @@ pairs_with:
   - Molho de Pimenta Malagueta
   - Batida de Coco
 yield: 18–22 medium coxinhas
+equipment:
+  - Skillet/saucepan (for filling)
+  - Saucepan (for dough)
+  - Mixing bowls
+  - Deep pot or deep skillet (for frying)
+  - Clip-on or instant-read fry thermometer
+  - Tongs or spider
+  - Wire rack + sheet pan (drain)
+  - Pastry brush (for bake option)
 ---
 
 ## Ingredients

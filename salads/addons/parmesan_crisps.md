@@ -4,6 +4,11 @@ culture: Italian
 pairs_with:
   - Caesar Salad
   - Arugula & Parmesan Salad
+equipment:
+  - Baking sheet
+  - Parchment or silicone mat
+  - Oven
+  - Microplane (optional)
 ---
 
 ## Ingredients

@@ -6,6 +6,10 @@ diet: vegetarian, gluten-free, vegan
 pairs_with:
   - Caprese Salad
   - Grilled Vegetables
+equipment:
+  - Small bowl or jar with lid
+  - Whisk
+  - Measuring cups & spoons
 ---
 
 ## Ingredients

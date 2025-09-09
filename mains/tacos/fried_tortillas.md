@@ -5,6 +5,12 @@ pairs_with:
   - Tacos Dorados
   - Carne Asada Tacos
   - Salsa
+equipment:
+  - Heavy skillet or pot (shallow fry)
+  - Fry/candy thermometer (oil temp)
+  - Tongs
+  - Paper towels & wire rack (drain)
+  - Toothpicks (for tacos dorados)
 ---
 
 ## Ingredients

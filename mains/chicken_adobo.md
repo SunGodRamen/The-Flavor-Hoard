@@ -4,6 +4,12 @@ culture: Filipino
 pairs_with:
   - Rice
   - Pickled Cucumbers
+equipment:
+  - Dutch oven or deep skillet with lid
+  - Tongs
+  - Wooden spoon
+  - Measuring cups & spoons
+  - Bowl/plate (hold chicken)
 ---
 
 ## Ingredients
