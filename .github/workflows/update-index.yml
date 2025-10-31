@@ -29,7 +29,9 @@ jobs:
       - name: Generate recipe index (MD + JSON)
         shell: bash
         run: |
-          set -eo pipefail
+          # safer: no -e; keep pipefail; show commands
+          set -o pipefail
+          set -x
           shopt -s globstar nullglob
 
           DIRS=(desserts drinks gatherings mains salads sauces sides starters)
@@ -73,11 +75,15 @@ jobs:
 
             total=0
             for d in "${DIRS[@]}"; do
-              echo "## ${d^}"
+              # capitalize first letter portably
+              cap="$(printf "%s" "$d" | head -c1 | tr '[:lower:]' '[:upper:]')$(printf "%s" "$d" | cut -c2-)"
+              echo "## $cap"
               count=0
               for f in "$d"/*.md "$d"/**/*.md; do
                 [[ -f "$f" ]] || continue
-                title="$(grep -m1 '^# ' "$f" | sed 's/^# \s*//;s/\r$//')"
+                # don't fail if no H1; fall back to filename
+                title="$(grep -m1 '^# ' "$f" || true)"
+                title="${title#\# }"
                 [[ -n "$title" ]] || title="$(basename "$f" .md)"
                 echo "- [${title}]($f)"
                 ((count++))
@@ -89,13 +95,13 @@ jobs:
             echo "**Total recipes:** $total"
           } > "$MD_PATH"
 
+          # ----- Commit if changed -----
           if git diff --quiet -- "$MD_PATH" "$JSON_PATH"; then
             echo "No index changes."
-            exit 0
+          else
+            git config user.name "FlavorHoardBot"
+            git config user.email "flavorhoardbot@example.com"
+            git add "$MD_PATH" "$JSON_PATH"
+            git commit -m "chore(index): auto-update recipe index ($NOW)" || true
+            git push
           fi
-
-          git config user.name "FlavorHoardBot"
-          git config user.email "flavorhoardbot@example.com"
-          git add "$MD_PATH" "$JSON_PATH"
-          git commit -m "chore(index): auto-update recipe index ($NOW)"
-          git push
