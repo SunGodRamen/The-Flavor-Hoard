@@ -1,0 +1,110 @@
+name: Update Recipe Index
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'desserts/**/*.md'
+      - 'drinks/**/*.md'
+      - 'gatherings/**/*.md'
+      - 'mains/**/*.md'
+      - 'salads/**/*.md'
+      - 'sauces/**/*.md'
+      - 'sides/**/*.md'
+      - 'starters/**/*.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate recipe index (MD + JSON)
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # folders to include
+          DIRS=(desserts drinks gatherings mains salads sauces sides starters)
+
+          # gather files
+          mapfile -t FILES < <(printf '%s\n' "${DIRS[@]}" | xargs -I{} bash -c 'shopt -s nullglob; for f in {}/**/*.md {}/*.md; do echo "$f"; done' | sort)
+
+          # timestamp
+          NOW="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+
+          # JSON header (for machines)
+          JSON_PATH="recipes.json"
+          {
+            echo '{'
+            echo '  "generated_at": "'"$NOW"'",'
+            echo '  "categories": {'
+            first_cat=1
+            for d in "${DIRS[@]}"; do
+              [[ $first_cat -eq 1 ]] || echo ','
+              first_cat=0
+              echo -n '    "'$d'": ['
+              first=1
+              shopt -s nullglob
+              cat_files=()
+              for f in "$d"/*.md "$d"/**/*.md; do
+                [[ -f "$f" ]] || continue
+                cat_files+=("$f")
+              done
+              for f in "${cat_files[@]}"; do
+                [[ $first -eq 1 ]] || echo -n ', '
+                first=0
+                echo -n '"'$f'"'
+              done
+              echo -n ']'
+            done
+            echo
+            echo '  }'
+            echo '}'
+          } > "$JSON_PATH"
+
+          # Markdown index (for humans)
+          MD_PATH="recipe_index.md"
+          {
+            echo "<!-- machine-index: see recipes.json; generated $NOW -->"
+            echo "# Recipe Index"
+            echo
+            echo "_Auto-generated on $NOW (UTC). Edit recipes in category folders; this file updates on push._"
+            echo
+
+            total=0
+            for d in "${DIRS[@]}"; do
+              echo "## ${d^}"
+              count=0
+              shopt -s nullglob
+              for f in "$d"/*.md "$d"/**/*.md; do
+                [[ -f "$f" ]] || continue
+                # title = first line that starts with '# ' or fallback to filename
+                title="$(grep -m1 '^# ' "$f" | sed 's/^# \s*//;s/\r$//')"
+                [[ -n "$title" ]] || title="$(basename "$f" .md)"
+                echo "- [${title}]($f)"
+                ((count++))
+                ((total++))
+              done
+              [[ $count -eq 0 ]] && echo "_(no recipes yet)_"
+              echo
+            done
+            echo "**Total recipes:** $total"
+          } > "$MD_PATH"
+
+          # Only commit if changed
+          if git diff --quiet -- "$MD_PATH" "$JSON_PATH"; then
+            echo "No index changes."
+            exit 0
+          fi
+
+          git config user.name "FlavorHoardBot"
+          git config user.email "flavorhoardbot@example.com"
+          git add "$MD_PATH" "$JSON_PATH"
+          git commit -m "chore(index): auto-update recipe index ($NOW)"
+          git push
