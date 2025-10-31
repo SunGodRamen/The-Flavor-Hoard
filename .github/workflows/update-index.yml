@@ -29,7 +29,8 @@ jobs:
       - name: Generate recipe index (MD + JSON)
         shell: bash
         run: |
-          # safer: no -e; keep pipefail; show commands
+          # Runner forces -e; turn it off to prevent falsey tests from exiting
+          set +e
           set -o pipefail
           set -x
           shopt -s globstar nullglob
@@ -44,21 +45,23 @@ jobs:
             echo '{'
             echo '  "generated_at": "'"$NOW"'",'
             echo '  "categories": {'
+
             for i in "${!DIRS[@]}"; do
               d="${DIRS[$i]}"
-              [[ $i -gt 0 ]] && echo ','
+              if (( i > 0 )); then echo ','; fi
               echo -n '    "'$d'": ['
 
-              c=0
+              sep=""
               for f in "$d"/*.md "$d"/**/*.md; do
-                [[ -f "$f" ]] || continue
-                [[ $c -gt 0 ]] && echo -n ', '
-                printf '"%s"' "$f"
-                ((c++))
+                if [[ -f "$f" ]]; then
+                  printf '%s"%s"' "$sep" "$f"
+                  sep=", "
+                fi
               done
 
               echo -n ']'
             done
+
             echo
             echo '  }'
             echo '}'
@@ -75,21 +78,20 @@ jobs:
 
             total=0
             for d in "${DIRS[@]}"; do
-              # capitalize first letter portably
               cap="$(printf "%s" "$d" | head -c1 | tr '[:lower:]' '[:upper:]')$(printf "%s" "$d" | cut -c2-)"
               echo "## $cap"
               count=0
               for f in "$d"/*.md "$d"/**/*.md; do
-                [[ -f "$f" ]] || continue
-                # don't fail if no H1; fall back to filename
-                title="$(grep -m1 '^# ' "$f" || true)"
-                title="${title#\# }"
-                [[ -n "$title" ]] || title="$(basename "$f" .md)"
-                echo "- [${title}]($f)"
-                ((count++))
-                ((total++))
+                if [[ -f "$f" ]]; then
+                  title="$(grep -m1 '^# ' "$f" || true)"
+                  title="${title#\# }"
+                  if [[ -z "$title" ]]; then title="$(basename "$f" .md)"; fi
+                  echo "- [${title}]($f)"
+                  ((count++))
+                  ((total++))
+                fi
               done
-              [[ $count -eq 0 ]] && echo "_(no recipes yet)_"
+              if (( count == 0 )); then echo "_(no recipes yet)_"; fi
               echo
             done
             echo "**Total recipes:** $total"
