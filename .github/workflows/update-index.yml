@@ -29,7 +29,7 @@ jobs:
       - name: Generate recipe index (MD + JSON)
         shell: bash
         run: |
-          # Runner forces -e; turn it off to prevent falsey tests from exiting
+          # turn off -e (runner forces it); keep pipefail; trace
           set +e
           set -o pipefail
           set -x
@@ -39,18 +39,15 @@ jobs:
           NOW="$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           echo "Generating at $NOW"
 
-          # ----- JSON -----
           JSON_PATH="recipes.json"
           {
             echo '{'
             echo '  "generated_at": "'"$NOW"'",'
             echo '  "categories": {'
-
             for i in "${!DIRS[@]}"; do
               d="${DIRS[$i]}"
               if (( i > 0 )); then echo ','; fi
               echo -n '    "'$d'": ['
-
               sep=""
               for f in "$d"/*.md "$d"/**/*.md; do
                 if [[ -f "$f" ]]; then
@@ -58,16 +55,13 @@ jobs:
                   sep=", "
                 fi
               done
-
               echo -n ']'
             done
-
             echo
             echo '  }'
             echo '}'
           } > "$JSON_PATH"
 
-          # ----- Markdown -----
           MD_PATH="recipe_index.md"
           {
             echo "<!-- machine-index: see recipes.json; generated $NOW -->"
@@ -75,7 +69,6 @@ jobs:
             echo
             echo "_Auto-generated on $NOW (UTC). Edit recipes in category folders; this file updates on push._"
             echo
-
             total=0
             for d in "${DIRS[@]}"; do
               cap="$(printf "%s" "$d" | head -c1 | tr '[:lower:]' '[:upper:]')$(printf "%s" "$d" | cut -c2-)"
@@ -97,13 +90,13 @@ jobs:
             echo "**Total recipes:** $total"
           } > "$MD_PATH"
 
-          # ----- Commit if changed -----
-          if git diff --quiet -- "$MD_PATH" "$JSON_PATH"; then
+          # Stage first so untracked files are noticed, then diff the index
+          git add "$MD_PATH" "$JSON_PATH" || true
+          if git diff --cached --quiet; then
             echo "No index changes."
           else
             git config user.name "FlavorHoardBot"
             git config user.email "flavorhoardbot@example.com"
-            git add "$MD_PATH" "$JSON_PATH"
             git commit -m "chore(index): auto-update recipe index ($NOW)" || true
             git push
           fi
