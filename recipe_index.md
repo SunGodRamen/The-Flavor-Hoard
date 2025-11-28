@@ -1,7 +1,7 @@
-<!-- machine-index: see recipes.json; generated 2025-10-31T03:54:36Z -->
+<!-- machine-index: see recipes.json; generated 2025-11-28T00:34:56Z -->
 # Recipe Index
 
-_Auto-generated on 2025-10-31T03:54:36Z (UTC). Edit recipes in category folders; this file updates on push._
+_Auto-generated on 2025-11-28T00:34:56Z (UTC). Edit recipes in category folders; this file updates on push._
 
 ## Desserts
 - [apfelstrudel](desserts/apfelstrudel.md)
